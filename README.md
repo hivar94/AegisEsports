@@ -1,24 +1,23 @@
-# AMW-OBD
+# Aegis-Esports-OBS
 
-## [Releases](https://github.com/DaBenjamins/AMW-OBS/releases)
+## [Releases](https://github.com/hivar94/AegisEsports/releases)
 
 ## Amateur Worlds Asset Setup
 
-1. [Download](https://github.com/DaBenjamins/AMW-OBS/releases) the .json file from the folder
+1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
 2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
 	1. https://github.com/univrsal/spectralizer/releases/tag/v1.3.4
 	2. VLC Player - https://www.videolan.org/vlc/download-windows.html
 	3. Window Audio Capture - https://github.com/bozbez/win-capture-audio
-	4. Timer OBS Script - Right click save as [Download](https://raw.githubusercontent.com/DaBenjamins/AMW-OBS/main/countdownadaptivetime.lua)
+	4. Timer - Snaz [Download](https://github.com/JimmyAppelt/Snaz)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
 6. Ignore Missing Files dialog box, click cancel
 7. CHECK AUDIO SOURCES
-8. Update Source Links [Document](https://docs.google.com/spreadsheets/d/1QNADXY0jrh_Ewpnsmy1F4rOzouzbyXhS90Gpteh1voQ/)
 
 
-## Amateur Worlds Flow of the Show
+## Aegis Esports Flow of the Show
 
 1. Stream Starts
 	1. Intermission Scene
