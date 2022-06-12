@@ -33,4 +33,4 @@
 	1. Intermission Scene
 8. Repeat Caster Draft Through Host Interview per game
 9. Stream Ending
-	1. Ending Scene
+	1. Intermission Scene
