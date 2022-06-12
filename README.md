@@ -21,28 +21,16 @@
 
 1. Stream Starts
 	1. Intermission Scene
-2. Host + Analyst Desk
-	1. AD Standard Scene
-	2. Show Introduction
-	3. Schedule
-		1. Show Schedule Image
-	4. Teams vs Teams
-		1. Show Team vs Team Image (for each)
-	5. Predictions
-3. Send to Casters for Draft
+2. Casters + Draft
 	1. Draftlol Scene
-4. Send to Intermission for in game prep
+3. Send to Intermission for in game prep
 	1. Intermission Scene
-5. In Game Casting
+4. In Game Casting
 	1. In Game Scene
-6. Post Game Wrap up
-	1. Caster Desk
-7. Host + Analyst Desk
-	1. AD Standard Scene
-8. Between Game Break
+5. Post Game Wrap up
+	1. Draftlol Scene
+7. Between Game Break
 	1. Intermission Scene
-9. Repeat Caster Draft Through Host Interview per game
-10. Stream Cool Down with Host + Analyst Desk
-	1. AD Standard Scene
-11. Stream Ending
-	1. Ending Scene
+8. Repeat Caster Draft Through Host Interview per game
+9. Stream Ending
+	1. Intermission Scene
