@@ -2,7 +2,7 @@
 
 ## [Releases](https://github.com/hivar94/AegisEsports/releases)
 
-## Amateur Worlds Asset Setup
+## Aegis Asset Setup
 
 1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
 2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
