@@ -1,4 +1,4 @@
-# Aegis-Esports-OBS
+# Aegis-Esports-Wild-Rift-OBS
 
 ## [Releases](https://github.com/hivar94/AegisEsports/releases)
 
