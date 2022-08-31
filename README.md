@@ -15,22 +15,3 @@
 5. Import .json through Scene Collection on toolbar
 6. Ignore Missing Files dialog box, click cancel
 7. CHECK AUDIO SOURCES
-
-
-## Aegis Esports Flow of the Show
-
-1. Stream Starts
-	1. Intermission Scene
-2. Casters + Draft
-	1. Draftlol Scene
-3. Send to Intermission for in game prep
-	1. Intermission Scene
-4. In Game Casting
-	1. In Game Scene
-5. Post Game Wrap up
-	1. Draftlol Scene
-7. Between Game Break
-	1. Intermission Scene
-8. Repeat Caster Draft Through Host Interview per game
-9. Stream Ending
-	1. Intermission Scene
