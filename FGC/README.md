@@ -1,8 +1,8 @@
-# Aegis-Esports-LOR-OBS
+# Aegis-Esports-FGC-OBS
 
 ## [Releases](https://github.com/hivar94/AegisEsports/releases)
 
-## Aegis LOR Asset Setup
+## Aegis FGC Asset Setup
 
 1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
 2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
@@ -23,18 +23,12 @@
 	1. Intermission Scene
 2. Casters
 	1. Caster Desk Scene
-3. Deck List
-	1. Desk List Scene
-4. Match up
-	1. Match up Scene
-5. Send to Intermission for in game prep
-	1. Intermission Scene
-6. In Game Casting
+3. In Game Casting
 	1. In Game Scene
-5. Post Game Wrap up
+4. Post Game Wrap up
 	1. Caster Scene
-7. Between Game Break
+5. Between Game Break
 	1. Intermission Scene
-8. Repeat per game
-9. Stream Ending
+6. Repeat per game
+7. Stream Ending
 	1. Intermission Scene
