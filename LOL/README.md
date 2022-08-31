@@ -1,4 +1,4 @@
-# Aegis-Esports-OBS
+# Aegis-Esports-LOL-OBS
 
 ## [Releases](https://github.com/hivar94/AegisEsports/releases)
 
