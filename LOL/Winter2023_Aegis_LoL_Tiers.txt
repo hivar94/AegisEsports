@@ -1,0 +1,121 @@
+=================AML=================
+
+TIER_1
+Alerion Gaming
+Iceborn Reboot
+S.A.D.B.O.I.S.
+Stacked Deck
+UCSC White
+Akuma Blades
+Area of Effect Esmond
+Team Ambition Shogun
+
+TIER_2
+Primal Instinct Masters
+Genius Uprising
+Dorado Gaming Zeta
+Team Ambition Distortion
+
+TIER_3
+Rewolf Esport
+License to Kill
+Conquering Sands Gaming
+Death Cards
+Indigo
+Northeastern University
+VESPA B Team
+Elementals
+
+TIER_4
+Butler University
+Glacial Commando
+Lotus Gallica
+Contingent Esports Orange
+
+TIER_5
+University of Minnesota JV
+BPG Midnight
+Team Revenge
+The Burger Flippers
+
+=================APL=================
+
+TIER_1
+Ashen Asylum
+Ashen Soulfire
+Iridescent Dawn Umbra
+Queen's Revenge
+DZG Olympus
+Nameless Echo
+Team Ambition Chao
+Dorado Gaming Epsilon
+
+TIER_2
+Kung Fu Zoo Bandits
+Bing Chillers Mint Tea
+Orbit Gaming Eclipse
+Richard's Riders
+
+TIER_3
+Horizon Gaming Zenith
+DoV Black
+Kung Fu Zoo Assassins
+Elysium Frost
+
+TIER_4
+Nameless Rose
+Optimal eSports Riptide
+Team Ambition Thunder
+Event Horizon Evo
+
+=================AGL=================
+
+TIER_1
+Clown Gaming It
+Team Ambition Infinite
+TD Cheers
+Leaguecast
+
+TIER_2
+CB Hydra
+Conduit Esports Phoenix
+Tufts University C
+CB Rangers
+Queens Gambit Knights
+DePaul University Academy Red
+Conduit Esports Sussers
+Glacial Phantom
+
+TIER_3
+Literal Monkeys Gold
+DZG Elysium
+Team ShadowFrost Dominion
+Shining Light Ooga Booga
+
+TIER_4
+PF: Changs
+Airplane Cats
+Coachless Tyranny
+DePaul University Academy Blue
+
+=================ASL=================
+
+TIER_1
+CB Duck Noises
+Glacial Storm
+Iconic Devastation
+TD Retro
+Unlucky Esports Academy
+Team ShadowFrost Revolution
+CB Bank
+Flannel Esports Ethereal
+
+TIER_2
+Event Horizon Andromeda
+Queens Gambit Pawns
+Eden's Blazing Stars
+Elysian Fields
+Event Horizon Kaizen
+PF: Artisans
+SG Antimatter
+Team Ambition Poro
