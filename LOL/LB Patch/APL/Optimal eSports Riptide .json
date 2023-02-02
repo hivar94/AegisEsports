@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Optimal eSports Riptide ",
+    "nameTag": "OERT",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Default.png",
+  "FileVersion": "1.0"
+}

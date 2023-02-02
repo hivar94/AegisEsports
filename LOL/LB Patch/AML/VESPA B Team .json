@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "VESPA B Team ",
+    "nameTag": "VTB",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\VESPA B Team .png",
+  "FileVersion": "1.0"
+}

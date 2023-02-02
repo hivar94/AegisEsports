@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Stacked Deck",
+    "nameTag": "SD",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(66,133,244)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Stacked Deck.png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Dorado Gaming Epsilon ",
+    "nameTag": "DOGE",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Dorado Gaming Epsilon .png",
+  "FileVersion": "1.0"
+}

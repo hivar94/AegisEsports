@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Elysium Frost ",
+    "nameTag": "ELY",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Elysium Frost .png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Event Horizon Evo ",
+    "nameTag": "EHZE",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Event Horizon Evo .png",
+  "FileVersion": "1.0"
+}

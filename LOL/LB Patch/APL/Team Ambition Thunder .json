@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Team Ambition Thunder ",
+    "nameTag": "TAT",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Team Ambition Thunder .png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "S.A.D.B.O.I.S. ",
+    "nameTag": "BOIS",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\S.A.D.B.O.I.S. .png",
+  "FileVersion": "1.0"
+}

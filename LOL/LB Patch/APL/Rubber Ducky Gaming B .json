@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Rubber Ducky Gaming B ",
+    "nameTag": "RDGB",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Rubber Ducky Gaming B .png",
+  "FileVersion": "1.0"
+}

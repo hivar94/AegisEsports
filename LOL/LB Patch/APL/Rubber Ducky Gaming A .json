@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Rubber Ducky Gaming A ",
+    "nameTag": "RDGA",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Rubber Ducky Gaming A .png",
+  "FileVersion": "1.0"
+}

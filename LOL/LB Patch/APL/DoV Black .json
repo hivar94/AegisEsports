@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "DoV Black ",
+    "nameTag": "DOV",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\DoV Black .png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Richard's Riders ",
+    "nameTag": "RR",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Richard's Riders .png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Genius Uprising ",
+    "nameTag": "GNU",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Genius Uprising .png",
+  "FileVersion": "1.0"
+}

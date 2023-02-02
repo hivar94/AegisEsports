@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Nameless Echo ",
+    "nameTag": "NEE",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Nameless Echo .png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Orbit Gaming Eclipse ",
+    "nameTag": "OGE",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Orbit Gaming Eclipse .png",
+  "FileVersion": "1.0"
+}

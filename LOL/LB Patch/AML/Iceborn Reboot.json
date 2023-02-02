@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Iceborn Reboot",
+    "nameTag": "ICE",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(66,133,244)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Iceborn Reboot.png",
+  "FileVersion": "1.0"
+}

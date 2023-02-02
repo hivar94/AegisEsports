@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "License to Kill ",
+    "nameTag": "LTM",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\License to Kill .png",
+  "FileVersion": "1.0"
+}

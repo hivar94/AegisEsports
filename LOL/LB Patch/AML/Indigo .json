@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Indigo ",
+    "nameTag": "IGO",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Indigo .png",
+  "FileVersion": "1.0"
+}

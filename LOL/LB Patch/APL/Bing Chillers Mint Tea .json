@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Bing Chillers Mint Tea ",
+    "nameTag": "BCS",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Bing Chillers Mint Tea .png",
+  "FileVersion": "1.0"
+}

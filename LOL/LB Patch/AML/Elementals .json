@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Elementals ",
+    "nameTag": "ELM",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Elementals .png",
+  "FileVersion": "1.0"
+}

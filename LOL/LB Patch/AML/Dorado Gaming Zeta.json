@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Dorado Gaming Zeta",
+    "nameTag": "DOGZ",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(66,133,244)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Dorado Gaming Zeta.png",
+  "FileVersion": "1.0"
+}

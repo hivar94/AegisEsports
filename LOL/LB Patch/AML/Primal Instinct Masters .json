@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Primal Instinct Masters ",
+    "nameTag": "PIM",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Primal Instinct Masters .png",
+  "FileVersion": "1.0"
+}

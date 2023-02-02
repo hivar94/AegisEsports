@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Queen's Revenge ",
+    "nameTag": "QR",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Queen's Revenge .png",
+  "FileVersion": "1.0"
+}

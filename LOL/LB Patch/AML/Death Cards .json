@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Death Cards ",
+    "nameTag": "DC",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Death Cards .png",
+  "FileVersion": "1.0"
+}

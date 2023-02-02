@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Akuma Blades ",
+    "nameTag": "AKM",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Akuma Blades .png",
+  "FileVersion": "1.0"
+}

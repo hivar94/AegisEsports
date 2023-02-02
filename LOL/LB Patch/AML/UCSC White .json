@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "UCSC White ",
+    "nameTag": "UICSC",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\UCSC White .png",
+  "FileVersion": "1.0"
+}

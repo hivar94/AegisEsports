@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Ashen Asylum ",
+    "nameTag": "ASA",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Ashen Asylum .png",
+  "FileVersion": "1.0"
+}

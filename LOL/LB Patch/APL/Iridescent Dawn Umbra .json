@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Iridescent Dawn Umbra ",
+    "nameTag": "IDU",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Iridescent Dawn Umbra .png",
+  "FileVersion": "1.0"
+}

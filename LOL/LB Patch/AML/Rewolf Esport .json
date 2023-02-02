@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Rewolf Esport ",
+    "nameTag": "RW",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Rewolf Esport .png",
+  "FileVersion": "1.0"
+}
