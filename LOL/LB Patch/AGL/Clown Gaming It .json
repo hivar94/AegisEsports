@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Clown Gaming It ",
+    "nameTag": "CGI",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Clown Gaming It .png",
+  "FileVersion": "1.0"
+}

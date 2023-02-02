@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "TD Cheers ",
+    "nameTag": "TDC",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\TD Cheers .png",
+  "FileVersion": "1.0"
+}

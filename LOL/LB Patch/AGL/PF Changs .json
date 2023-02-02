@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "PF Changs ",
+    "nameTag": "PFC",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\PF: Changs .png",
+  "FileVersion": "1.0"
+}

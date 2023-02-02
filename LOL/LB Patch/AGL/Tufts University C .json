@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Tufts University C ",
+    "nameTag": "TFTS",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Tufts University C .png",
+  "FileVersion": "1.0"
+}

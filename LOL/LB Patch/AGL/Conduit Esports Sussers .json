@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Conduit Esports Sussers ",
+    "nameTag": "CSUS",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Conduit Esports Sussers .png",
+  "FileVersion": "1.0"
+}

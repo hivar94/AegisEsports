@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Coachless Tyranny ",
+    "nameTag": "CT",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Coachless Tyranny .png",
+  "FileVersion": "1.0"
+}

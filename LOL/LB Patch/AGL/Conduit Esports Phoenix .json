@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Conduit Esports Phoenix ",
+    "nameTag": "CPX",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Conduit Esports Phoenix .png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Team Ambition Infinite ",
+    "nameTag": "TAI",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Team Ambition Infinite .png",
+  "FileVersion": "1.0"
+}

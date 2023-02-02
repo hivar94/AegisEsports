@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Shining Light OOGA BOOGA ",
+    "nameTag": "SLOB",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Shining Light OOGA BOOGA .png",
+  "FileVersion": "1.0"
+}

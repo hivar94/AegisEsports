@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "CB Rangers ",
+    "nameTag": "CBR",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\CB Rangers .png",
+  "FileVersion": "1.0"
+}

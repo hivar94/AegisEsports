@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Literal Monkeys Gold ",
+    "nameTag": "MKY",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Literal Monkeys Gold .png",
+  "FileVersion": "1.0"
+}

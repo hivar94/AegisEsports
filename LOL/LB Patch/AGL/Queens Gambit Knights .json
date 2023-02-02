@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Queens Gambit Knights ",
+    "nameTag": "QGK",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Queens Gambit Knights .png",
+  "FileVersion": "1.0"
+}

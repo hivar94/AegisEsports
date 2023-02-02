@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Airplane Cats ",
+    "nameTag": "APC",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Airplane Cats .png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "DePaul University Academy Blue ",
+    "nameTag": "DPUB",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\DePaul University Academy Blue .png",
+  "FileVersion": "1.0"
+}

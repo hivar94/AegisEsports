@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "Team ShadowFrost Dominion ",
+    "nameTag": "TSFD",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(0,153,224)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Team ShadowFrost Dominion .png",
+  "FileVersion": "1.0"
+}
