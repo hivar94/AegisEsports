@@ -12,7 +12,7 @@
     "UseBackgroundVideo": false,
     "Color": "rgba(24,24,24,255)",
     "Font": {
-      "Style": "Normal",
+      "Style": "Bold",
       "Name": "Poppins",
       "Size": "15px",
       "Align": "right",
@@ -69,7 +69,7 @@
       "Y": 92.0
     },
     "TimeFont": {
-      "Style": "Normal",
+      "Style": "Bold",
       "Name": "Poppins",
       "Size": "22px",
       "Align": "center",
@@ -86,7 +86,7 @@
           "Y": 6.0
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "50px",
           "Align": "right",
@@ -110,7 +110,7 @@
           "Y": 20.0
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "26px",
           "Align": "right",
@@ -134,7 +134,7 @@
           "Y": 20.0
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "26px",
           "Align": "right",
@@ -163,10 +163,10 @@
         }
       },
       "Name": {
-        "UseTag": true,
+        "UseTag": false,
         "Position": {
           "X": -390.0,
-          "Y": 6.0
+          "Y": 18.0
         },
         "AdaptiveFontSize": true,
         "MaxSize": {
@@ -174,9 +174,9 @@
           "Y": 50.0
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
-          "Size": "40px",
+          "Size": "30px",
           "Align": "left",
           "Color": "rgb(255,255,255)"
         }
@@ -202,7 +202,7 @@
           "Y": 70.0
         },
         "NumberFont": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "15px",
           "Align": "right",
@@ -226,7 +226,7 @@
           "Y": 6.0
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "50px",
           "Align": "left",
@@ -250,7 +250,7 @@
           "Y": 20.0
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "26px",
           "Align": "left",
@@ -274,7 +274,7 @@
           "Y": 20.0
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "26px",
           "Align": "left",
@@ -306,7 +306,7 @@
         "UseTag": true,
         "Position": {
           "X": 390.0,
-          "Y": 6.0
+          "Y": 20.0
         },
         "AdaptiveFontSize": true,
         "MaxSize": {
@@ -314,9 +314,9 @@
           "Y": 50.0
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
-          "Size": "40px",
+          "Size": "30px",
           "Align": "right",
           "Color": "rgb(255,255,255)"
         }
@@ -342,7 +342,7 @@
           "Y": 70.0
         },
         "NumberFont": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "15px",
           "Align": "left",
@@ -465,7 +465,7 @@
     "ShowOnScoreboard": false,
     "ShowOnChampionIndicator": true,
     "InfoText": {
-      "Style": "Normal",
+      "Style": "Bold",
       "Name": "Poppins",
       "Size": "20px",
       "Align": "center",
@@ -603,7 +603,7 @@
     "ShowOnScoreboard": false,
     "ShowOnChampionIndicator": true,
     "LevelFont": {
-      "Style": "Normal",
+      "Style": "Bold",
       "Name": "Poppins",
       "Size": "60px",
       "Align": "center",
@@ -711,7 +711,7 @@
         }
       },
       "Font": {
-        "Style": "Normal",
+        "Style": "Bold",
         "Name": "Poppins",
         "Size": "26px",
         "Align": "center",
@@ -786,7 +786,7 @@
           }
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "15px",
           "Align": "left",
@@ -810,7 +810,7 @@
           }
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "15px",
           "Align": "left",
@@ -834,7 +834,7 @@
           }
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "25px",
           "Align": "center",
@@ -858,7 +858,7 @@
           }
         },
         "Font": {
-          "Style": "Normal",
+          "Style": "Bold",
           "Name": "Poppins",
           "Size": "15px",
           "Align": "right",
@@ -1086,7 +1086,7 @@
     "News Cycle",
     "News Cycle:bold",
     "Poppins",
-    "Poppins:bold",
+    "Poppins:700",
     "Droid Sans"
   ],
   "FileVersion": "2.2"
