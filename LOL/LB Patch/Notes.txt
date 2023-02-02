@@ -1,0 +1,21 @@
+Change Background Color in all places
+19, 24, 63
+24, 24, 24
+
+Line Locations
+Scoreboard Background Color			362-366
+Background							909
+Gold Graph Background Color			929
+Google Fonts						1089
+
+
+Add font
+	"Poppins",
+	"Poppins:bold",
+
+
+66, 133, 244
+0, 153, 224
+
+234, 67, 53
+232, 61, 61
