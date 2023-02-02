@@ -82,7 +82,7 @@
     "BlueTeam": {
       "Kills": {
         "Position": {
-          "X": -35.0,
+          "X": -30.0,
           "Y": 6.0
         },
         "Font": {
@@ -222,7 +222,7 @@
     "RedTeam": {
       "Kills": {
         "Position": {
-          "X": 35.0,
+          "X": 30.0,
           "Y": 6.0
         },
         "Font": {
