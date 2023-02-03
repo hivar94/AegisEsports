@@ -5,11 +5,13 @@
 ## Aegis Asset Setup
 
 1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
-2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
+2. Download Common used plugins
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
-	2. VLC Player - https://www.videolan.org/vlc/download-windows.html
-	3. Window Audio Capture - https://github.com/bozbez/win-capture-audio
-	4. Timer - Snaz [Download](https://github.com/JimmyAppelt/Snaz)
+	2. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
+	3. [Window Audio Capture](https://obsproject.com/forum/resources/move-transition.913/)
+	4. [Timer - Snaz ](https://github.com/JimmyAppelt/Snaz)
+	5. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
+	6. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
