@@ -27,7 +27,7 @@
 3. Casters
 	1. Caster Desk Scene
 4. Predictions
-	Predictions Scene
+	1. Predictions Scene
 5. In Game Casting
 	1. In Game Scene
 	2. Switch between POVs as casters request
