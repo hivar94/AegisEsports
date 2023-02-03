@@ -8,10 +8,9 @@
 2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
 	2. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
-	3. [Window Audio Capture](https://obsproject.com/forum/resources/move-transition.913/)
-	4. [Timer - Snaz ](https://github.com/JimmyAppelt/Snaz)
-	5. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
-	6. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
+	3. [Timer - Snaz ](https://github.com/JimmyAppelt/Snaz)
+	4. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
+	5. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
 3. Install plugins into your OBS
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
