@@ -11,6 +11,7 @@
 	3. [Timer - Snaz ](https://github.com/JimmyAppelt/Snaz)
 	4. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
 	5. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
+	6. [Stinger](https://github.com/hivar94/AegisEsports/raw/main/Assets/Transition_AEGIS.webm)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
