@@ -14,6 +14,7 @@
 	6. [League Broadcast Tool](https://github.com/floh22/LeagueBroadcast)
 	7. [Stinger](https://github.com/hivar94/AegisEsports/raw/main/Assets/Transition_AEGIS.webm)
 	8. [Font - Poppins](https://fonts.google.com/specimen/Poppins)
+	9. [LB Patch](https://github.com/hivar94/AegisEsports/raw/main/LOL/LB%20Patch/LB-Patch.zip)
 3. Install plugins into your OBS
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
