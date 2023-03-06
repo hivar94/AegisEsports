@@ -147,7 +147,7 @@
             "Y": 30.0
           },
           "Offset": {
-            "X": 28.0,
+            "X": 25.0,
             "Y": 10.0
           }
         }
@@ -163,7 +163,7 @@
         }
       },
       "Name": {
-        "UseTag": false,
+        "UseTag": true,
         "Position": {
           "X": -390.0,
           "Y": 17.0
@@ -270,7 +270,7 @@
       },
       "Gold": {
         "Position": {
-          "X": 155.0,
+          "X": 150.0,
           "Y": 20.0
         },
         "Font": {
@@ -939,7 +939,7 @@
         "Name": "Poppins",
         "Size": "22px",
         "Align": "left",
-        "Color": "rgb(255,255,255)"
+        "Color": "rgb(230,190,138)"
       },
       "Text": "GOLD DIFFERENCE SINCE START"
     },
@@ -968,13 +968,13 @@
         "Name": "Poppins",
         "Size": "UNUSED",
         "Align": "UNUSED",
-        "Color": "rgb(255,255,255)"
+        "Color": "rgb(230,190,138)"
       },
       "TimeStepSize": 30,
       "ShowTimeStepIndicators": true
     }
   },
-  "BaronTimer": {
+  "BaronPowerPlay": {
     "Position": {
       "X": 1800.0,
       "Y": 55.0
@@ -1010,7 +1010,7 @@
       "Name": "Poppins",
       "Size": "22px",
       "Align": "right",
-      "Color": "rgb(255,255,255)"
+      "Color": "rgb(230,190,138)"
     },
     "TimePosition": {
       "X": 25.0,
@@ -1025,10 +1025,10 @@
       "Name": "Poppins",
       "Size": "22px",
       "Align": "right",
-      "Color": "rgb(255,255,255)"
+      "Color": "rgb(230,190,138)"
     }
   },
-  "ElderTimer": {
+  "ElderPowerPlay": {
     "Position": {
       "X": 120.0,
       "Y": 55.0
@@ -1064,7 +1064,7 @@
       "Name": "Poppins",
       "Size": "22px",
       "Align": "left",
-      "Color": "rgb(255,255,255)"
+      "Color": "rgb(230,190,138)"
     },
     "TimePosition": {
       "X": 18.0,
@@ -1079,15 +1079,46 @@
       "Name": "Poppins",
       "Size": "22px",
       "Align": "left",
-      "Color": "rgb(255,255,255)"
+      "Color": "rgb(230,190,138)"
+    }
+  },
+  "DragonTimer": {
+    "KeepDisplayedWhenAlive": false,
+    "HideTimeIfAlive": true,
+    "IconAlivePosition": {
+      "X": 25.0,
+      "Y": 0.0
+    },
+    "IconAliveScale": 1.2,
+    "IconAliveLerpDurationSetToZeroToDisable": 1000.0,
+    "Position": {
+      "X": 120.0,
+      "Y": 55.0
+    },
+    "Scale": 0.8,
+    "Align": "left",
+    "IconPosition": {
+      "X": -20.0,
+      "Y": 0.0
+    },
+    "TimePosition": {
+      "X": 80.0,
+      "Y": -18.0
+    },
+    "TimeFont": {
+      "Style": "Bold",
+      "Name": "Poppins",
+      "Size": "32px",
+      "Align": "left",
+      "Color": "rgb(230,190,138)"
     }
   },
   "GoogleFonts": [
     "News Cycle",
     "News Cycle:bold",
-    "Poppins",
+	"Poppins",
     "Poppins:700",
     "Droid Sans"
   ],
-  "FileVersion": "2.2"
+  "FileVersion": "3.0"
 }
