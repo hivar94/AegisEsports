@@ -14,6 +14,7 @@
 5. Import .json through Scene Collection on toolbar
 6. Ignore Missing Files dialog box, click cancel
 7. CHECK AUDIO SOURCES
+8. [Caster Card Tool](https://creative-runeterra.netlify.app/)
 
 
 ## Aegis Esports Flow of the Show
