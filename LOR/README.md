@@ -9,6 +9,8 @@
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
 	2. VLC Player **64bit** - https://www.videolan.org/vlc/download-windows.html
 	3. Timer - Snaz [Download](https://github.com/JimmyAppelt/Snaz/releases)
+	4. [Async Image Source](https://obsproject.com/forum/resources/xobsasyncimagesource-asynchronous-image-source.1681/)
+	5. [OBS Sheet Tool](https://github.com/DaBenjamins/obs-google-sheet-importer#setting-browser-url)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
