@@ -7,8 +7,14 @@
 1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
 2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
-	2. VLC Player **64bit** - https://www.videolan.org/vlc/download-windows.html
-	3. Timer - Snaz [Download](https://github.com/JimmyAppelt/Snaz/releases)
+	2. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
+	3. [Timer - Snaz ](https://github.com/JimmyAppelt/Snaz)
+	4. [Async Image Source](https://obsproject.com/forum/resources/xobsasyncimagesource-asynchronous-image-source.1681/)
+	5. [OBS Sheet Tool](https://github.com/DaBenjamins/obs-google-sheet-importer#setting-browser-url)
+	6. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
+	7. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
+	8. [Stinger](https://github.com/hivar94/AegisEsports/raw/main/Assets/Transition_AEGIS.webm)
+	9. [Font - Poppins](https://fonts.google.com/specimen/Poppins)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
