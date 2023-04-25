@@ -15,6 +15,7 @@
 	7. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
 	8. [Stinger](https://github.com/hivar94/AegisEsports/raw/main/Assets/Transition_AEGIS.webm)
 	9. [Font - Poppins](https://fonts.google.com/specimen/Poppins)
+	10. [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
