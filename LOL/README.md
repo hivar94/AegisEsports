@@ -13,7 +13,7 @@
 	4. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
 	5. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
 	6. [Source Copy](https://obsproject.com/forum/resources/source-copy.1261/)
-	8. [Font - Poppins](https://fonts.google.com/specimen/Poppins)
+	7. [Font - Poppins](https://fonts.google.com/specimen/Poppins)
 4. Install plugins into your OBS
 5. Install plugins into your OBS
 6. Verify Plugins in OBS
