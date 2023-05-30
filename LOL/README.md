@@ -5,7 +5,7 @@
 ## Aegis Asset Setup
 
 1. Update OBS (29.1.2 or newer)
-2. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder [Stream 1](https://raw.githubusercontent.com/hivar94/AegisEsports/main/LOL/AegisLOL1.json)
+2. Download the .json file from the folder [Stream 1](https://github.com/hivar94/AegisEsports/blob/main/LOL/AegisLOL1.json) - [Stream 2](https://github.com/hivar94/AegisEsports/blob/main/LOL/AegisLOL2.json)
 3. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
 	2. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
