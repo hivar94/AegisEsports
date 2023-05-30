@@ -4,23 +4,22 @@
 
 ## Aegis Asset Setup
 
-1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
-2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
+1. Update OBS (29.1.2 or newer)
+2. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
+3. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
 	2. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
 	3. [Timer - Snaz ](https://github.com/JimmyAppelt/Snaz)
 	4. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
 	5. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
-	6. [League Broadcast Tool](https://github.com/floh22/LeagueBroadcast)
-	7. [Stinger](https://github.com/hivar94/AegisEsports/raw/main/Assets/Transition_AEGIS.webm)
+	6. [Source Copy](https://obsproject.com/forum/resources/source-copy.1261/)
 	8. [Font - Poppins](https://fonts.google.com/specimen/Poppins)
-	9. [LB Patch](https://github.com/hivar94/AegisEsports/raw/main/LOL/LB%20Patch/LB-Patch.zip)
-3. Install plugins into your OBS
-3. Install plugins into your OBS
-4. Verify Plugins in OBS
-5. Import .json through Scene Collection on toolbar
-6. Ignore Missing Files dialog box, click cancel
-7. CHECK AUDIO SOURCES
+4. Install plugins into your OBS
+5. Install plugins into your OBS
+6. Verify Plugins in OBS
+7. Import .json through Scene Collection on toolbar
+8. Ignore Missing Files dialog box, click cancel
+9. CHECK AUDIO SOURCES
 
 
 ## Aegis Esports Flow of the Show
