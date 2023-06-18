@@ -1,0 +1,2 @@
+Get-ChildItem -Path C:\Github\AegisEsports\LOR\Assets\Flags -Recurse | Rename-item -NewName {$_.Basename.ToUpper() + $_.extension}
+
