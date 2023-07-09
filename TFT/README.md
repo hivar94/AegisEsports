@@ -5,7 +5,7 @@
 ## Aegis TFT Asset Setup
 
 1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
-2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
+2. [Download plugins](https://tools.aegisesports.gg/assets/Aegis-OBS-Plugins.zip)
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
 	2. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
 	3. [Timer Script](https://tools.aegisesports.gg/assets/countdownadaptivetime.lua)
