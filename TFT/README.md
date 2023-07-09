@@ -12,6 +12,7 @@
 	4. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
 	5. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
 	6. [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
+	7. [Asynchronous image source](https://obsproject.com/forum/resources/xobsasyncimagesource-asynchronous-image-source.1681/)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
