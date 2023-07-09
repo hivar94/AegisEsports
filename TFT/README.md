@@ -8,10 +8,10 @@
 2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
 	2. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
-	3. [Timer - Snaz ](https://github.com/JimmyAppelt/Snaz)
+	3. [Timer Script](https://tools.aegisesports.gg/assets/countdownadaptivetime.lua)
 	4. [Move Transition](https://obsproject.com/forum/resources/move-transition.913/)
 	5. [Transition Table](https://obsproject.com/forum/resources/transition-table.1174/)
-	6. [Stinger](https://github.com/hivar94/AegisEsports/raw/main/Assets/Transition_AEGIS.webm)
+	6. [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
