@@ -4,7 +4,7 @@
 
 ## Aegis TFT Asset Setup
 
-1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
+1. [Download](https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/AegisTFT.json) the .json file from the folder
 2. Download Addons
 	1. [Download plugins](https://tools.aegisesports.gg/assets/Aegis-OBS-Plugins.zip)
 		1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
