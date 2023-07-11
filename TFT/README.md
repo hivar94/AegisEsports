@@ -18,6 +18,7 @@
 		3. [MADE Soulmaze](https://www.dafont.com/made-soulmaze.font)
 	3. [Timer Script](https://tools.aegisesports.gg/assets/countdownadaptivetime.lua)
 	4. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
+	5. [OBS Sheet Tool](https://github.com/DaBenjamins/obs-google-sheet-importer#setting-browser-url)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
