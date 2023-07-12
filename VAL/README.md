@@ -4,7 +4,7 @@
 
 ## Aegis VAL Asset Setup
 
-1. [Download](https://github.com/hivar94/AegisEsports/tree/main/VAL/AegisLOR.json) the .json file from the folder
+1. [Download](https://github.com/hivar94/AegisEsports/blob/main/VAL/AegisVal.json) the .json file from the folder
 2. Download Addons
 	1. [Download plugins](https://tools.aegisesports.gg/assets/Aegis-OBS-Plugins.zip)
 		1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
@@ -32,8 +32,8 @@
 	1. Intermission Scene
 2. Casters
 	1. Caster Desk Scene
-3. Deck List
-	1. Desk List Scene
+3. Map Ban
+	1. Map Ban Scene
 4. Match up
 	1. Match up Scene
 5. Send to Intermission for in game prep
