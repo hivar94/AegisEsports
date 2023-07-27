@@ -31,3 +31,9 @@ Possible Additions
 
 Scene Tree
 https://obsproject.com/forum/resources/scene-tree-folder-plugin-for-obs-studio.1500/
+
+
+Interesting
+
+xObsBeam
+https://obsproject.com/forum/resources/xobsbeam-beta.1705/
