@@ -1,0 +1,39 @@
+Updated 7/7/2023
+
+Install:
+
+Copy "Data" and "obs-plugins" into OBS install location (C:\Program Files\obs-studio)
+
+
+
+Spectralizer
+https://obsproject.com/forum/resources/spectralizer.861/
+Transition Table
+https://obsproject.com/forum/resources/transition-table.1174/
+Move Transition
+https://obsproject.com/forum/resources/move.913/
+Source Copy
+https://obsproject.com/forum/resources/source-copy.1261/
+Advanced Scene Switcher
+https://obsproject.com/forum/resources/advanced-scene-switcher.395/
+Asynchronous image source
+https://obsproject.com/forum/resources/xobsasyncimagesource-asynchronous-image-source.1681/
+Waveform
+https://obsproject.com/forum/resources/waveform.1423/
+Source Clone
+https://obsproject.com/forum/resources/source-clone.1632/
+Source Dock
+https://obsproject.com/forum/resources/source-dock.1317/
+
+
+
+Possible Additions
+
+Scene Tree
+https://obsproject.com/forum/resources/scene-tree-folder-plugin-for-obs-studio.1500/
+
+
+Interesting
+
+xObsBeam
+https://obsproject.com/forum/resources/xobsbeam-beta.1705/
