@@ -4,7 +4,7 @@
 
 ## Aegis FGC Asset Setup
 
-1. [Download](https://github.com/hivar94/AegisEsports/releases) the .json file from the folder
+1. [Download](https://github.com/hivar94/AegisEsports/blob/main/FGC/AegisFGC.json) the .json file from the folder
 2. Download VLC, Windows Audio Capture, Timer script and spectralizer plugins
 	1. [OBS Spectralizer Plugin](https://github.com/univrsal/spectralizer/releases)
 	2. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
