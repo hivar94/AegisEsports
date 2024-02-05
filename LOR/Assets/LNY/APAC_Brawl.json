@@ -1,6 +1,6 @@
 {
-    "current_scene": "Team VS",
-    "current_program_scene": "Team VS",
+    "current_scene": "In Game Nested",
+    "current_program_scene": "In Game Nested",
     "scene_order": [
         {
             "name": "Countdown"
@@ -19150,6 +19150,7 @@
             "prev_ver": 503316482,
             "name": "A Player 1 PFP |sheet 149",
             "uuid": "041b8d6d-dc7d-42cd-9fd3-696a353abb73",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/4_2nd.png"
@@ -19209,6 +19210,7 @@
             "prev_ver": 503316482,
             "name": "A Player 1 Team |sheet 152",
             "uuid": "ea551316-0738-497c-b181-83c692b3300c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Elder dragon.png"
@@ -19268,6 +19270,7 @@
             "prev_ver": 503316482,
             "name": "A Player 2 PFP |sheet 150",
             "uuid": "39b363a2-3a29-4fc6-8e00-911e34b836a9",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Iwato.png"
@@ -19327,6 +19330,7 @@
             "prev_ver": 503316482,
             "name": "A Player 2 Team |sheet 153",
             "uuid": "819a1a83-ff03-4cae-b3f0-cba7edfae887",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Sol.png"
@@ -19386,6 +19390,7 @@
             "prev_ver": 503316482,
             "name": "A Player 3 PFP |sheet 151",
             "uuid": "1b623872-7cea-4176-89bf-ec4806599795",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/KDF Pegasos.png"
@@ -19445,6 +19450,7 @@
             "prev_ver": 503316482,
             "name": "A Player 3 Team |sheet 154",
             "uuid": "1aa5151b-b485-4692-8dec-59c1551fd437",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Shyvana.png"
@@ -19470,6 +19476,7 @@
             "prev_ver": 503316482,
             "name": "Aegis Esports.png",
             "uuid": "7b4918f5-efcf-4edd-8cbf-830725bc3295",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Aegis Esports.png"
@@ -19524,6 +19531,7 @@
             "prev_ver": 503316482,
             "name": "Aegis Esports.png (2)",
             "uuid": "775a2a75-4f22-4f7c-bb04-ed6f07059c1d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Aegis Esports.png"
@@ -19617,6 +19625,7 @@
             "prev_ver": 503316482,
             "name": "B Player 1 PFP |sheet 161",
             "uuid": "9a1d6db2-e56b-4566-8a07-ead0e2af3cd7",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Kyzen.png"
@@ -19676,6 +19685,7 @@
             "prev_ver": 503316482,
             "name": "B Player 1 Team |sheet 164",
             "uuid": "e876010e-c849-4d61-9d21-c40c3577553e",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Elder dragon.png"
@@ -19735,6 +19745,7 @@
             "prev_ver": 503316482,
             "name": "B Player 2 PFP |sheet 162",
             "uuid": "bb503223-5df9-4cc9-aca4-c75a442b082a",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Cruz.png"
@@ -19794,6 +19805,7 @@
             "prev_ver": 503316482,
             "name": "B Player 2 Team |sheet 165",
             "uuid": "7091866b-580e-41a1-951b-9b1abc22afc0",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Sol.png"
@@ -19853,6 +19865,7 @@
             "prev_ver": 503316482,
             "name": "B Player 3 PFP |sheet 163",
             "uuid": "5c667299-305a-4fea-971d-fb0423a8ad5d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/KDF Reroll.png",
@@ -19913,6 +19926,7 @@
             "prev_ver": 503316482,
             "name": "B Player 3 Team |sheet 166",
             "uuid": "4185c2d5-b98a-419c-84c5-8aea953bd5b8",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Shyvana.png"
@@ -19964,6 +19978,7 @@
             "prev_ver": 503316482,
             "name": "Ban pick screen bar.png",
             "uuid": "2c30998d-8aea-446f-8ea5-b8c8fa165d58",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Ban pick screen bar.png"
@@ -19989,6 +20004,7 @@
             "prev_ver": 503316482,
             "name": "Ban pick screen bar.png (2)",
             "uuid": "1ce7ff9a-e40f-4f23-96f8-cadd4584a48c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Ban pick screen bar.png"
@@ -20014,6 +20030,7 @@
             "prev_ver": 503316482,
             "name": "Ban pick screen BG.png",
             "uuid": "bbff97d4-ec65-4d6f-bf2e-dffc56e47d02",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Ban pick screen BG.png"
@@ -20039,6 +20056,7 @@
             "prev_ver": 503316482,
             "name": "Ban pick screen BG.png (2)",
             "uuid": "4329042a-c161-4faf-a002-634466dcb109",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Ban pick screen BG.png"
@@ -20064,6 +20082,7 @@
             "prev_ver": 503316482,
             "name": "Ban pick screen BG.png (3)",
             "uuid": "3407e5f7-9b07-4b07-8ad7-c3b45a6f10ab",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Ban pick screen BG.png"
@@ -20089,6 +20108,7 @@
             "prev_ver": 503316482,
             "name": "Ban pick screen.png",
             "uuid": "80d3dd3c-a2d5-4152-87fe-c22b8d305db6",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Ban pick screen.png"
@@ -20114,6 +20134,7 @@
             "prev_ver": 503316482,
             "name": "Ban pick screen.png (2)",
             "uuid": "0651f5d4-d143-4830-9426-a93a93d11858",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Ban pick screen.png"
@@ -20139,6 +20160,7 @@
             "prev_ver": 503316482,
             "name": "Bandit Keith.png",
             "uuid": "bf3e1e08-980b-4134-a549-bcf93acac4ae",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Bandit Keith.png"
@@ -20222,6 +20244,7 @@
             "prev_ver": 503316482,
             "name": "Bot Card |sheet 134",
             "uuid": "d335bf11-a159-40f7-88ab-d3c5d89e0b56",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06NX012.png"
@@ -20247,6 +20270,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 1 Box |sheet 112",
             "uuid": "53f726f8-d56b-440b-8342-9b2131daea78",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Green-Side.png"
@@ -20272,6 +20296,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 1 Region 1 |sheet 99",
             "uuid": "c61a4e98-235a-4680-9086-063a0348ab5b",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/NX.png"
@@ -20297,6 +20322,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 1 Region 2 |sheet 100",
             "uuid": "a0c93b19-34e8-4f3a-ae12-05160751bc58",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/PZ.png"
@@ -20322,6 +20348,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 2 Box |sheet 113",
             "uuid": "5d89ed7b-e6b8-4ce5-b0bc-189bbb3fd622",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "undo_sname": "Bot Deck 2 Box |sheet 126",
@@ -20348,6 +20375,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 2 Region 1 |sheet 101",
             "uuid": "6ada6062-8c2c-459a-a0f2-234d74147280",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png"
@@ -20373,6 +20401,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 2 Region 2 |sheet 102",
             "uuid": "fd8ca03b-f4a8-4f71-ae34-93eb997f3892",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png"
@@ -20398,6 +20427,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 3 Box |sheet 114",
             "uuid": "8c5f1784-b425-47ef-8de2-cf500eb28728",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Red-Side.png"
@@ -20423,6 +20453,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 3 Region 1 |sheet 103",
             "uuid": "510a9e51-d1c8-4e29-bf7e-b795ea50b9d3",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SH.png"
@@ -20448,6 +20479,7 @@
             "prev_ver": 503316482,
             "name": "Bot Deck 3 Region 2 |sheet 104",
             "uuid": "581d66d8-367f-4def-a0d8-e6545a56e57f",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SI.png"
@@ -20473,6 +20505,7 @@
             "prev_ver": 503316482,
             "name": "Bot Game 1 Region 1 |sheet 294",
             "uuid": "68528292-aeaf-4270-98ec-0341b25c534c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/NX.png"
@@ -20498,6 +20531,7 @@
             "prev_ver": 503316482,
             "name": "Bot Game 1 Region 2 |sheet 295",
             "uuid": "2bfe2a95-c9b7-4fef-a8ed-58b931649cf3",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/PZ.png"
@@ -20523,6 +20557,7 @@
             "prev_ver": 503316482,
             "name": "Bot Game 2 Region 1 |sheet 296",
             "uuid": "03614e6e-8907-4555-8f71-e787c58567e2",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png"
@@ -20548,6 +20583,7 @@
             "prev_ver": 503316482,
             "name": "Bot Game 2 Region 2 |sheet 297",
             "uuid": "d069658b-8333-4103-b716-1098305c1106",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png"
@@ -20573,6 +20609,7 @@
             "prev_ver": 503316482,
             "name": "Bot Game 3 Region 1 |sheet 298",
             "uuid": "5e982afe-a1f1-46d0-adf6-a3ecd6642494",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png"
@@ -20598,6 +20635,7 @@
             "prev_ver": 503316482,
             "name": "Bot Game 3 Region 2 |sheet 299",
             "uuid": "4a063f7c-edec-4633-8539-467de67cb562",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png"
@@ -20779,6 +20817,7 @@
             "prev_ver": 503316482,
             "name": "Bot Lvl BG",
             "uuid": "26a3cb52-9254-49df-a775-4bad73555258",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -20804,6 +20843,7 @@
             "prev_ver": 503316482,
             "name": "Bot Player Game Score 1 |sheet 306",
             "uuid": "90179a0c-a7f5-4ba8-9e5b-35193d02e209",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -20860,6 +20900,7 @@
             "prev_ver": 503316482,
             "name": "Bot Player Game Score 2 |sheet 307",
             "uuid": "aa60f9ef-7ae7-4d7d-9037-d75fea7d4798",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -20916,6 +20957,7 @@
             "prev_ver": 503316482,
             "name": "Bot Player Game Score 3 |sheet 308",
             "uuid": "b9449e8c-ad85-4477-b959-ec3a0d74f3c8",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -20972,6 +21014,7 @@
             "prev_ver": 503316482,
             "name": "Bot Player Logo |sheet 120",
             "uuid": "8ea39703-591d-4185-8674-0f8187df190d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Kyzen.png",
@@ -21119,6 +21162,7 @@
             "prev_ver": 503316482,
             "name": "Bot Player R1 |sheet 29",
             "uuid": "ed4b8950-ebf7-4ea3-8441-125c4434d058",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png",
@@ -21145,6 +21189,7 @@
             "prev_ver": 503316482,
             "name": "Bot Player R2 |sheet 30",
             "uuid": "a6b5fe55-0aaa-4642-8ebd-62c0890ffa42",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png",
@@ -21171,6 +21216,7 @@
             "prev_ver": 503316482,
             "name": "Bot Player Score 1 |sheet 125",
             "uuid": "f0fb95a8-d11b-4171-b978-a359cd223064",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -21227,6 +21273,7 @@
             "prev_ver": 503316482,
             "name": "Bot Player Score 2 |sheet 126",
             "uuid": "f4262d50-3ad3-49c6-8ac8-c63adb0dc912",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -21364,6 +21411,7 @@
             "prev_ver": 503316482,
             "name": "Bot traps 1",
             "uuid": "fb8953c8-e301-4907-a6fe-f940da06a867",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -21389,6 +21437,7 @@
             "prev_ver": 503316482,
             "name": "Bot Traps 1 Logo |sheet 652",
             "uuid": "795ec655-0828-4309-ba35-689cb067230b",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Regions/Traps.png",
@@ -21448,6 +21497,7 @@
             "prev_ver": 503316482,
             "name": "Bot Traps 2",
             "uuid": "c141a739-d626-4a4b-bb78-c65f26a12ff0",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -21473,6 +21523,7 @@
             "prev_ver": 503316482,
             "name": "Bot Traps 2 Logo |sheet 655",
             "uuid": "c173f45e-ea92-4609-9fdb-f051180aad91",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "text": "x1",
@@ -21534,6 +21585,7 @@
             "prev_ver": 503316482,
             "name": "Bot traps 3",
             "uuid": "5b12243a-66bf-4a96-afa6-a302b390a510",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -21559,6 +21611,7 @@
             "prev_ver": 503316482,
             "name": "Bot Traps 3 Logo |sheet 658",
             "uuid": "a9e66177-482c-4f08-b3d9-087b797f2a7d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Regions/Traps.png",
@@ -21618,6 +21671,7 @@
             "prev_ver": 503316482,
             "name": "Bot traps 4",
             "uuid": "f2b11bd8-ecf7-4569-a074-423a66836a02",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -21643,6 +21697,7 @@
             "prev_ver": 503316482,
             "name": "Bot Traps 4 Logo |sheet 661",
             "uuid": "13658f64-2143-4ebf-8371-72abc8a0fc74",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Regions/Traps.png",
@@ -21702,6 +21757,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 1 - 1 |sheet 69",
             "uuid": "e1ca9ada-6150-445f-b1fe-2a3c37a2fd25",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -21727,6 +21783,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 1 - 2 |sheet 77",
             "uuid": "c73e25a0-5052-4daa-bbc9-868d9608c9a4",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Aatrox.png"
@@ -21752,6 +21809,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 1 - 3 |sheet 85",
             "uuid": "6c86db38-aceb-400c-9963-2e3b1b23981b",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -21777,6 +21835,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 2 - 1 |sheet 70",
             "uuid": "bd68f7bb-0df9-4644-9e80-f4c5ca8de038",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Darius.png"
@@ -21802,6 +21861,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 2 - 2 |sheet 78",
             "uuid": "a8315058-4cd5-4ec7-b242-f3742b395b15",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -21827,6 +21887,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 2 - 3 |sheet 86",
             "uuid": "e8090fbf-87a1-47ad-aec9-780a37b57289",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Mordekaiser.png"
@@ -21852,6 +21913,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 3 - 1 |sheet 72",
             "uuid": "55e2c18b-d48c-4fdd-9b51-1ea36af80b57",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -21877,6 +21939,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 3 - 2 |sheet 80",
             "uuid": "8df3d736-c838-4d53-aee7-4e98c1f9e5ff",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -21902,6 +21965,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 3 - 3 |sheet 88",
             "uuid": "bf520aeb-17dd-4c5a-bcf8-22a1e372c63c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -21927,6 +21991,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 4 - 1 |sheet 73",
             "uuid": "f450213a-c1d5-4f73-b78b-a06d8c304e55",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -21952,6 +22017,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 4 - 2 |sheet 81",
             "uuid": "0288b5cd-00b6-465a-9a1e-257cba14ccfc",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -21977,6 +22043,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 1 - 4 - 3 |sheet 89",
             "uuid": "4ada0a6b-a9ad-4185-b1da-16ce7a343978",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22002,6 +22069,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 2 - 2 - 1 |sheet 71",
             "uuid": "8a31657e-d714-460d-a5cd-9f920d32787f",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Janna.png"
@@ -22027,6 +22095,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 2 - 2 - 2 |sheet 79",
             "uuid": "7ae77425-a586-4680-a9a0-4fdeb0204951",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22052,6 +22121,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 2 - 2 - 3 |sheet 87",
             "uuid": "7e21465b-916b-47f1-8ca4-a8ad08aee108",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Senna.png"
@@ -22077,6 +22147,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 2 - 4 - 1 |sheet 74",
             "uuid": "71c99104-43ce-4f84-ae6c-eb0c81eb7c9a",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22102,6 +22173,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 2 - 4 - 2 |sheet 82",
             "uuid": "5c9e8365-6f19-4953-9430-fab1edf11894",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22127,6 +22199,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 2 - 4 - 3 |sheet 90",
             "uuid": "3bcaf2bb-7a4d-422e-ab4c-2aeb4c998efc",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22152,6 +22225,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 3 - 4 - 1 |sheet 75",
             "uuid": "85fef7e0-c592-45c2-be19-5ffe450ab71c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22177,6 +22251,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 3 - 4 - 2 |sheet 83",
             "uuid": "9977ef14-6cad-4b27-baeb-e3fe35721b92",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22202,6 +22277,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 3 - 4 - 3 |sheet 91",
             "uuid": "b365227c-8518-42df-89cd-6af7199ab8f0",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22227,6 +22303,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 4 - 4 - 1 |sheet 76",
             "uuid": "afeba03b-9d26-4da0-8fdf-2f8284daf613",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22252,6 +22329,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 4 - 4 - 2 |sheet 84",
             "uuid": "8ac82fe9-fd24-4103-8607-8f4776820354",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22277,6 +22355,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Deck Champ 4 - 4 - 3 |sheet 92",
             "uuid": "8e981eba-f96e-4316-be94-54972b1c6454",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -22302,6 +22381,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Region 1 - 1 |sheet 99",
             "uuid": "de670515-58b5-477c-ac1a-8514fe977d27",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/NX.png"
@@ -22327,6 +22407,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Region 1 - 2 |sheet 101",
             "uuid": "4c4ec763-a35b-4fe7-bb90-02aca2f8e01b",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png"
@@ -22352,6 +22433,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Region 1 - 3 |sheet 103",
             "uuid": "56c2f654-e637-449e-b3c8-52e43cdae1c5",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SH.png"
@@ -22377,6 +22459,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Region 2 - 1 |sheet 100",
             "uuid": "bb954d51-6ff4-4b0b-b63c-b5f4fb99dc02",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/PZ.png"
@@ -22402,6 +22485,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Region 2 - 2 |sheet 102",
             "uuid": "6aeed307-dd78-4bdd-b427-6f95c89d361d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png"
@@ -22427,6 +22511,7 @@
             "prev_ver": 503316482,
             "name": "Bottom Region 2 - 3 |sheet 104",
             "uuid": "f90a6598-740e-4cfc-a8dd-273b274608c8",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SI.png"
@@ -22486,6 +22571,7 @@
             "prev_ver": 503316482,
             "name": "C Player 1 PFP |sheet 173",
             "uuid": "300e3eee-d0b4-4d6d-8ceb-00a31727fe2c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Rocyden.png"
@@ -22545,6 +22631,7 @@
             "prev_ver": 503316482,
             "name": "C Player 1 Team |sheet 176",
             "uuid": "d7a31561-7ac2-41d3-9afd-0515e6e7f39c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Elder dragon.png"
@@ -22604,6 +22691,7 @@
             "prev_ver": 503316482,
             "name": "C Player 2 PFP |sheet 174",
             "uuid": "49acffb1-2f93-4903-877a-6e7298460b88",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/keih.png"
@@ -22663,6 +22751,7 @@
             "prev_ver": 503316482,
             "name": "C Player 2 Team |sheet 177",
             "uuid": "b78fb61b-c6f9-4b07-abb5-9072ecdbc564",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Sol.png"
@@ -22722,6 +22811,7 @@
             "prev_ver": 503316482,
             "name": "C Player 3 PFP |sheet 175",
             "uuid": "e0b32f97-4819-451c-8bb5-c83cb4a33f1f",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/KDF Peta.png"
@@ -22781,6 +22871,7 @@
             "prev_ver": 503316482,
             "name": "C Player 3 Team |sheet 178",
             "uuid": "758b2205-e605-47e1-a70b-63a4676fbca0",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Shyvana.png"
@@ -22843,6 +22934,7 @@
             "prev_ver": 503316482,
             "name": "Card |sheet 107",
             "uuid": "d72c185c-8c7b-439c-87a7-37686d75ba1f",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -23578,6 +23670,7 @@
             "prev_ver": 503316482,
             "name": "Caster BG.png",
             "uuid": "55737808-6922-4462-9540-f77a09300c1b",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Caster BG.png"
@@ -24549,6 +24642,7 @@
             "prev_ver": 503316482,
             "name": "Chance To Draw",
             "uuid": "f98b6777-53ee-4476-9e8d-0451ebe889c5",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Chance_to_Draw.png"
@@ -25444,6 +25538,7 @@
             "prev_ver": 503316482,
             "name": "Countdown Overlay.png",
             "uuid": "6cfde14c-c1df-48d6-b4f9-1425a16f2aec",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Countdown Overlay.png"
@@ -25469,6 +25564,7 @@
             "prev_ver": 503316482,
             "name": "Countdown screen.png",
             "uuid": "d9aeb708-2627-4af3-a580-932865ad54c7",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Countdown screen.png"
@@ -25494,6 +25590,7 @@
             "prev_ver": 503316482,
             "name": "Countdown Underlay.png",
             "uuid": "a7021cf0-f34f-44bf-8d4e-3b17245c64f5",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Countdown Underlay.png"
@@ -25553,6 +25650,7 @@
             "prev_ver": 503316482,
             "name": "D Player 1 PFP |sheet 185",
             "uuid": "c2ce6dcb-1d20-4024-8c3a-e7adfe0e87b4",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/GreenSlimey.png"
@@ -25612,6 +25710,7 @@
             "prev_ver": 503316482,
             "name": "D Player 1 Team |sheet 188",
             "uuid": "ef9dcae5-3ea8-4780-b722-1f520fca26b1",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Elder dragon.png"
@@ -25671,6 +25770,7 @@
             "prev_ver": 503316482,
             "name": "D Player 2 PFP |sheet 186",
             "uuid": "f9625ec9-8a16-4d08-bb17-a33449bf11cd",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/kuro.png"
@@ -25730,6 +25830,7 @@
             "prev_ver": 503316482,
             "name": "D Player 2 Team |sheet 189",
             "uuid": "aad39a8a-752f-4277-a4ec-6ba90cd46635",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Sol.png"
@@ -25789,6 +25890,7 @@
             "prev_ver": 503316482,
             "name": "D Player 3 PFP |sheet 187",
             "uuid": "e2e93a4e-4864-4c65-a364-b008bd27f924",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/KDF Enkoe.png"
@@ -25848,6 +25950,7 @@
             "prev_ver": 503316482,
             "name": "D Player 3 Team |sheet 190",
             "uuid": "26caed06-a46d-49be-9418-9e56ab370985",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Shyvana.png"
@@ -25873,6 +25976,7 @@
             "prev_ver": 503316482,
             "name": "Deck Background",
             "uuid": "1fbdcc14-182f-4466-9f16-93660c3f18b4",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Card Frames.png",
@@ -25899,6 +26003,7 @@
             "prev_ver": 503316482,
             "name": "Deck Ban BG",
             "uuid": "8c9e5d0f-90c2-41fb-8cda-443b64567d09",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -25924,6 +26029,7 @@
             "prev_ver": 503316482,
             "name": "Deck Introduce.png (2)",
             "uuid": "b022cc6e-2795-4c2b-95d5-7ee28524ed2c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Deck Introduce.png"
@@ -27139,6 +27245,7 @@
             "prev_ver": 503316482,
             "name": "Decklist square BG.png",
             "uuid": "cc70d323-df9a-4e25-b8b5-54fa91dea7e4",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Decklist square BG.png"
@@ -30459,6 +30566,7 @@
             "prev_ver": 503316482,
             "name": "Duel Screen BG.png",
             "uuid": "82cf395c-a356-4833-94b7-6b03e4dc549f",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Duel Screen BG.png"
@@ -30484,6 +30592,7 @@
             "prev_ver": 503316482,
             "name": "Duel Screen player borders.png",
             "uuid": "9de8ae5b-e557-4f8c-9c96-acad3d0ee3ea",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Duel Screen player borders.png"
@@ -31358,6 +31467,7 @@
             "prev_ver": 503316482,
             "name": "Head to Head",
             "uuid": "877719ee-f498-47d4-a647-f860b66738f6",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/head_to_head.png",
@@ -33271,6 +33381,7 @@
             "prev_ver": 503316482,
             "name": "In game left",
             "uuid": "4ee88998-2a3b-42fa-a289-ac623d9993ba",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/IG Left.png",
@@ -34065,7 +34176,7 @@
                     {
                         "name": "Pick 3 Group",
                         "source_uuid": "bf0ed19f-c482-49b5-930b-5fc530aef17e",
-                        "visible": true,
+                        "visible": false,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
@@ -34107,7 +34218,7 @@
                             "duration": 400
                         },
                         "private_settings": {
-                            "collapsed": false,
+                            "collapsed": true,
                             "color": "",
                             "color-preset": 6
                         }
@@ -36695,6 +36806,7 @@
             "prev_ver": 503316482,
             "name": "In Game Top Right.png",
             "uuid": "75aae0e2-c5b7-48a9-8313-5afc2980e718",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Top Right.png"
@@ -36755,6 +36867,7 @@
             "prev_ver": 503316482,
             "name": "Introduce team.png",
             "uuid": "19626a27-d51c-4687-be0d-1337300e94d0",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Introduce team1.png"
@@ -36780,6 +36893,7 @@
             "prev_ver": 503316482,
             "name": "Introduce team.png 2",
             "uuid": "bb4ca17a-dac6-4296-b0e9-d38c50c9d334",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Introduce team2.png"
@@ -36805,6 +36919,7 @@
             "prev_ver": 503316482,
             "name": "Introduce team.png 3",
             "uuid": "76839c79-14f2-4448-a32b-b655b5209570",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Introduce team3.png"
@@ -36830,6 +36945,7 @@
             "prev_ver": 503316482,
             "name": "Logo.png",
             "uuid": "7c58ffff-da07-4f8c-bd78-28cdc296ded0",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Logo.png"
@@ -37042,6 +37158,7 @@
             "prev_ver": 503316482,
             "name": "Match Sum Overlay",
             "uuid": "beb2472b-c86a-4005-bdd8-cc44482bf8ee",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Match summary Nested.png",
@@ -37570,6 +37687,7 @@
             "prev_ver": 503316482,
             "name": "Match summary Text.png",
             "uuid": "c83e05f6-2d2d-4db8-a69c-b6615f7cf451",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Match summary Text.png"
@@ -39864,6 +39982,7 @@
             "prev_ver": 503316482,
             "name": "Name Banner",
             "uuid": "433833ed-3dd4-4058-952e-15b22330cf8b",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Nameplates.png",
@@ -40391,6 +40510,7 @@
             "prev_ver": 503316482,
             "name": "Opponents Hand.png",
             "uuid": "83d7517d-1399-4e0e-8cfe-c83ce987afc0",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Opponents Hand.png"
@@ -40416,6 +40536,7 @@
             "prev_ver": 503316482,
             "name": "P1 D1 L |sheet 127",
             "uuid": "3f4ae4c4-539d-4ade-8d76-92440c5e88c2",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Banned.png"
@@ -40441,6 +40562,7 @@
             "prev_ver": 503316482,
             "name": "P1 D2 L |sheet 128",
             "uuid": "81f67940-5811-4f66-b1e2-e2a5caed10a2",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -40466,6 +40588,7 @@
             "prev_ver": 503316482,
             "name": "P1 D3 L |sheet 129",
             "uuid": "0d080d61-e5eb-4fa0-b78e-4bb765307b81",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Victory.png"
@@ -40491,6 +40614,7 @@
             "prev_ver": 503316482,
             "name": "P2 D1 L |sheet 130",
             "uuid": "d0b5e4cf-0bd9-4c0e-ba57-37db8d1cb897",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Victory.png"
@@ -40516,6 +40640,7 @@
             "prev_ver": 503316482,
             "name": "P2 D2 L |sheet 131",
             "uuid": "8abd047b-f366-47c7-afa9-5ba38e8dc37e",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -40541,6 +40666,7 @@
             "prev_ver": 503316482,
             "name": "P2 D3 L |sheet 132",
             "uuid": "ade8f6b4-9c7d-4ec4-acfa-b9aa3b3bef2d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Banned.png"
@@ -40603,9 +40729,10 @@
             "prev_ver": 503316482,
             "name": "Pick 3",
             "uuid": "51c9bad1-faa3-480d-af75-8cc7acc14cd6",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
-                "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Pick.png",
+                "file": "D:/Aegis/LNY Event/Pick.png",
                 "unload": false,
                 "linear_alpha": false
             },
@@ -40630,6 +40757,7 @@
             "prev_ver": 503316482,
             "name": "Pick 5",
             "uuid": "53d5b10e-f7ec-4e6a-a569-5ec8364ca89a",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Pick_5.png",
@@ -40770,6 +40898,7 @@
             "prev_ver": 503316482,
             "name": "Player 1 Duel Image |sheet 8",
             "uuid": "73849037-768a-48e4-ad1b-c9a1791207ae",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Duel Images/4_2nd.png",
@@ -40834,6 +40963,7 @@
             "prev_ver": 503316482,
             "name": "Player 1 Team |sheet 6",
             "uuid": "de444723-fae6-4fcf-950e-07e981f411dc",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Elder dragon.png"
@@ -41003,6 +41133,7 @@
             "prev_ver": 503316482,
             "name": "Player 2 Duel Image |sheet 9",
             "uuid": "64f6a524-bd9e-42eb-b819-588b832c2116",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Duel Images/Kyzen.png"
@@ -41066,6 +41197,7 @@
             "prev_ver": 503316482,
             "name": "Player 2 Team |sheet 7",
             "uuid": "7ed38b4d-ed32-4fb1-ae86-d5d680c33c97",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Elder dragon.png"
@@ -43632,6 +43764,7 @@
             "prev_ver": 503316482,
             "name": "pools",
             "uuid": "e9a94efa-130e-4739-b88a-9f91ce7b8e08",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Group pool.png"
@@ -43692,6 +43825,7 @@
             "prev_ver": 503316482,
             "name": "Rule Screen.png",
             "uuid": "af08df26-dbf7-4ff7-8128-c72cab55bf48",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Rule Screen.png"
@@ -43717,6 +43851,7 @@
             "prev_ver": 503316482,
             "name": "Score Filled Bottom |sheet 17",
             "uuid": "191696f7-f711-46c7-b7d9-b7407e3fe6be",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Score-Dot-Filled.png",
@@ -43744,6 +43879,7 @@
             "prev_ver": 503316482,
             "name": "Score Filled Top |sheet 16",
             "uuid": "7fb77e18-b03a-454d-a9ef-010c1a93afdd",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Score-Dot-Filled.png",
@@ -44265,6 +44401,7 @@
             "prev_ver": 503316482,
             "name": "Spidz.png",
             "uuid": "c64dc477-6ff3-440b-92cf-51afef79e6ea",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Spidz.png"
@@ -44716,6 +44853,7 @@
             "prev_ver": 503316482,
             "name": "Team 1 Player 1 |sheet 201",
             "uuid": "9fdd7a88-402b-4fea-bc44-bf4526973e27",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/4_2nd.png"
@@ -44776,6 +44914,7 @@
             "prev_ver": 503316482,
             "name": "Team 1 Player 2 |sheet 202",
             "uuid": "775b7f66-d0f8-4ce2-bc5a-f313c567aa3a",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Kyzen.png"
@@ -44836,6 +44975,7 @@
             "prev_ver": 503316482,
             "name": "Team 1 Player 3 |sheet 203",
             "uuid": "e8a73d4a-ae87-4a9d-bbc5-8aadee4766cc",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Rocyden.png"
@@ -44896,6 +45036,7 @@
             "prev_ver": 503316482,
             "name": "Team 1 Player 4 |sheet 204",
             "uuid": "92575b56-e71d-4b36-9846-c3c00e2c6a51",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/GreenSlimey.png"
@@ -45034,6 +45175,7 @@
             "prev_ver": 503316482,
             "name": "Team 2 Player 1 |sheet 205",
             "uuid": "a4f3c0cf-f691-4a91-b16d-b95fcb5bd5d5",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Iwato.png"
@@ -45094,6 +45236,7 @@
             "prev_ver": 503316482,
             "name": "Team 2 Player 2 |sheet 206",
             "uuid": "54bcd947-27c9-4d52-bb57-9a9cec58a04c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/Cruz.png"
@@ -45154,6 +45297,7 @@
             "prev_ver": 503316482,
             "name": "Team 2 Player 3 |sheet 207",
             "uuid": "72d0fa5a-9493-4247-8626-656880e9b0d8",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/keih.png"
@@ -45214,6 +45358,7 @@
             "prev_ver": 503316482,
             "name": "Team 2 Player 4 |sheet 208",
             "uuid": "beec8392-7bdd-4328-ac66-e7f2615e44bc",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/kuro.png"
@@ -47915,6 +48060,7 @@
             "prev_ver": 503316482,
             "name": "Team VS BG",
             "uuid": "a1a4cb75-f1d0-4627-95ef-7b78f09b09f6",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/Team Duel Screen.png"
@@ -48031,6 +48177,7 @@
             "prev_ver": 503316482,
             "name": "Top Card |sheet 133",
             "uuid": "fa688b66-68ca-438b-85a4-537d97a27a13",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06NX012.png"
@@ -48056,6 +48203,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 1 Box |sheet 109",
             "uuid": "24cc1012-e1b1-435a-a5f9-71cb058db9cf",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "undo_sname": "Top Deck 1 Box |sheet 122",
@@ -48083,6 +48231,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 1 Region 1 |sheet 93",
             "uuid": "a28a439c-89e7-4138-9f6f-96a4b0dd04a1",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/NX.png"
@@ -48108,6 +48257,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 1 Region 2 |sheet 94",
             "uuid": "25876542-848b-46d3-a007-f640faf8c0c3",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/PZ.png"
@@ -48133,6 +48283,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 2 Box |sheet 110",
             "uuid": "db98913b-2764-4f6b-ae97-5effef6f3e24",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/sidebar_boxes.png",
@@ -48159,6 +48310,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 2 Region 1 |sheet 95",
             "uuid": "af086121-1ac9-4c9c-ba0e-5f2fa8d15a71",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png"
@@ -48184,6 +48336,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 2 Region 2 |sheet 96",
             "uuid": "d5a67488-ac9f-4304-95a9-005a556db15a",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png"
@@ -48209,6 +48362,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 3 Box |sheet 111",
             "uuid": "9346bedd-38c0-4a5b-851e-5aa438f5e30b",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Green-Side.png",
@@ -48235,6 +48389,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 3 Region 1 |sheet 97",
             "uuid": "9b8bf21c-2c2f-41c1-ba04-a59e326815ae",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SH.png"
@@ -48260,6 +48415,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck 3 Region 2 |sheet 98",
             "uuid": "9035e62f-3355-4586-a124-ec437453f23a",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SI.png"
@@ -48285,6 +48441,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 1 - 1 |sheet 45",
             "uuid": "1846214f-12da-444d-93a3-cde80b3e78c4",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48310,6 +48467,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 1 - 2 |sheet 53",
             "uuid": "92c1a4c5-c8d4-4fd7-ba8a-e07fc27e6e05",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Aatrox.png"
@@ -48335,6 +48493,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 1 - 3 |sheet 61",
             "uuid": "fbd4e6db-4895-442d-a02d-7b32edad3f6c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48360,6 +48519,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 2 - 1 |sheet 46",
             "uuid": "c37d3086-53fa-4fe8-a414-2625dac5fed2",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Darius.png"
@@ -48385,6 +48545,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 2 - 2 |sheet 54",
             "uuid": "0ca098cb-fc4d-4936-89be-27065d092d9d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48410,6 +48571,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 2 - 3 |sheet 62",
             "uuid": "a732aa38-7286-4667-b439-88ac1894d02c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Mordekaiser.png"
@@ -48435,6 +48597,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 3 - 1 |sheet 48",
             "uuid": "200549bf-3e3f-4fab-81fc-b32ce2db8d5c",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48460,6 +48623,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 3 - 2 |sheet 56",
             "uuid": "6d51c9a7-f489-46fb-b67e-e0bf1aff6d3b",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48485,6 +48649,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 3 - 3 |sheet 64",
             "uuid": "0c844146-38f7-4ef3-b4bd-929c96a4f5ae",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48510,6 +48675,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 4 - 1 |sheet 49",
             "uuid": "0567aee9-ccbb-4d0d-b2bd-b2660a0dd6d7",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48535,6 +48701,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 4 - 2 |sheet 57",
             "uuid": "3c11b443-e380-43e3-96de-3406bc7f2fbb",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48560,6 +48727,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 1 - 4 - 3 |sheet 65",
             "uuid": "12dd7cbb-1335-4c90-902d-e8d70e8f1c88",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48585,6 +48753,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 2 - 2 - 1 |sheet 47",
             "uuid": "1909d456-1533-4c8b-b3f0-ec338632be1a",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Janna.png"
@@ -48610,6 +48779,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 2 - 2 - 2 |sheet 55",
             "uuid": "6b23a694-bd8c-4b43-ab90-0511be6412ba",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48635,6 +48805,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 2 - 2 - 3 |sheet 63",
             "uuid": "7ce148aa-306d-4efb-8925-6c47d16d037d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Champions/Senna.png"
@@ -48660,6 +48831,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 2 - 4 - 1 |sheet 50",
             "uuid": "7eb0e7ad-b4f1-4edc-9c45-7314515bf586",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48685,6 +48857,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 2 - 4 - 2 |sheet 58",
             "uuid": "d0e871c4-8c18-450f-acc4-bf10411fabe4",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48710,6 +48883,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 2 - 4 - 3 |sheet 66",
             "uuid": "34ae96d8-7069-4ff8-bea9-e332df070310",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48735,6 +48909,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 3 - 4 - 1 |sheet 51",
             "uuid": "f68d3815-989b-4bec-a4b0-ccbc729877af",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48760,6 +48935,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 3 - 4 - 2 |sheet 59",
             "uuid": "f37d3f2a-62f3-43f5-85b5-47dcc55a3c1e",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48785,6 +48961,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 3 - 4 - 3 |sheet 67",
             "uuid": "629fb45c-787b-4f8d-aa79-24e580adafeb",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48810,6 +48987,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 4 - 4 - 1 |sheet 52",
             "uuid": "d11d2a86-9dc4-494b-a014-f6f6e1f262b7",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48835,6 +49013,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 4 - 4 - 2 |sheet 60",
             "uuid": "7830fc86-1ab0-4ed4-b649-65e1c9ab8909",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48860,6 +49039,7 @@
             "prev_ver": 503316482,
             "name": "Top Deck Champ 4 - 4 - 3 |sheet 68",
             "uuid": "7fd64005-78fc-4da3-be28-cf7608f768bd",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": ""
@@ -48885,6 +49065,7 @@
             "prev_ver": 503316482,
             "name": "Top Game 1 Region 1 |sheet 300",
             "uuid": "17a569c8-e353-4949-8c4b-0a4e8f861f22",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png"
@@ -48910,6 +49091,7 @@
             "prev_ver": 503316482,
             "name": "Top Game 1 Region 2 |sheet 301",
             "uuid": "39d951a0-c660-4b39-b840-00c78bd2905f",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png"
@@ -48935,6 +49117,7 @@
             "prev_ver": 503316482,
             "name": "Top Game 2 Region 1 |sheet 302",
             "uuid": "a3c1ad71-9d1e-46f5-aa1a-9f7c309038f8",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SH.png"
@@ -48960,6 +49143,7 @@
             "prev_ver": 503316482,
             "name": "Top Game 2 Region 2 |sheet 303",
             "uuid": "75f96200-f082-4284-8a0a-30e4f7c621dd",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SI.png"
@@ -48985,6 +49169,7 @@
             "prev_ver": 503316482,
             "name": "Top Game 3 Region 1 |sheet 304",
             "uuid": "46201045-3226-46ef-8aec-f94e0b9a6eb5",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png"
@@ -49010,6 +49195,7 @@
             "prev_ver": 503316482,
             "name": "Top Game 3 Region 2 |sheet 305",
             "uuid": "67eabffc-8a6a-430c-b578-58080a6c45f2",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png"
@@ -49195,6 +49381,7 @@
             "prev_ver": 503316482,
             "name": "Top Lvl BG",
             "uuid": "996b0ed8-6130-4744-a583-4f9f7867c383",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png",
@@ -49221,6 +49408,7 @@
             "prev_ver": 503316482,
             "name": "Top Player Game Score 1 |sheet 309",
             "uuid": "543f81ce-90f9-48fc-9eac-87e12978cbe2",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -49277,6 +49465,7 @@
             "prev_ver": 503316482,
             "name": "Top Player Game Score 2 |sheet 310",
             "uuid": "db578f14-d1ae-4b5b-839f-0f932adea6f8",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -49333,6 +49522,7 @@
             "prev_ver": 503316482,
             "name": "Top Player Game Score 3 |sheet 311",
             "uuid": "b471cd47-0f27-472f-8f55-3fcbbbc2e920",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -49389,6 +49579,7 @@
             "prev_ver": 503316482,
             "name": "Top Player Logo |sheet 119",
             "uuid": "aceb086e-2005-4b02-bcdc-5d220fd1162e",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/Player Circles/4_2nd.png",
@@ -49535,6 +49726,7 @@
             "prev_ver": 503316482,
             "name": "Top Player R1 |sheet 27",
             "uuid": "3b75f427-08c0-4e7e-a460-6b175a015754",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png",
@@ -49561,6 +49753,7 @@
             "prev_ver": 503316482,
             "name": "Top Player R2 |sheet 28",
             "uuid": "0a6a5fc3-6cc0-44b3-8c1c-ad94cbed68f1",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png",
@@ -49587,6 +49780,7 @@
             "prev_ver": 503316482,
             "name": "Top Player Score 1 |sheet 123",
             "uuid": "2a5708db-0de3-456b-ba67-2957dcfe8865",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -49643,6 +49837,7 @@
             "prev_ver": 503316482,
             "name": "Top Player Score 2 |sheet 124",
             "uuid": "64ed88a9-ece8-48bb-ae6c-906cbee11d40",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/SCOREPOINT.png"
@@ -49780,6 +49975,7 @@
             "prev_ver": 503316482,
             "name": "Top Region 1 - 1 |sheet 93",
             "uuid": "6888866b-d74f-4560-aa6d-18606f9efc65",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/NX.png"
@@ -49805,6 +50001,7 @@
             "prev_ver": 503316482,
             "name": "Top Region 1 - 2 |sheet 95",
             "uuid": "27a1d74d-2706-46f6-aa60-7998f700d945",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/Aatrox.png"
@@ -49830,6 +50027,7 @@
             "prev_ver": 503316482,
             "name": "Top Region 1 - 3 |sheet 97",
             "uuid": "4f234c55-1e20-4c0f-b15c-61045012358f",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SH.png"
@@ -49855,6 +50053,7 @@
             "prev_ver": 503316482,
             "name": "Top Region 2 - 1 |sheet 94",
             "uuid": "34241a58-8096-438b-99e4-7be90f22abd4",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/PZ.png"
@@ -49880,6 +50079,7 @@
             "prev_ver": 503316482,
             "name": "Top Region 2 - 2 |sheet 96",
             "uuid": "07cef388-f1c7-4856-a661-7693bc82a916",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/BW.png"
@@ -49905,6 +50105,7 @@
             "prev_ver": 503316482,
             "name": "Top Region 2 - 3 |sheet 98",
             "uuid": "b003f0f7-4f0f-4709-b703-4af7f2dc5da9",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://tools.aegisesports.gg/ro/Regions/SI.png"
@@ -49930,6 +50131,7 @@
             "prev_ver": 503316482,
             "name": "Top traps 1",
             "uuid": "6e67fe5d-44a8-4503-939f-55ab0ed6b4d8",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -49955,6 +50157,7 @@
             "prev_ver": 503316482,
             "name": "Top Traps 1 Logo |sheet 664",
             "uuid": "f612afbd-8e7d-457e-81f8-5580279eba61",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Regions/Traps.png",
@@ -50014,6 +50217,7 @@
             "prev_ver": 503316482,
             "name": "Top traps 2",
             "uuid": "91bac439-245b-4fd0-8d97-606ee1eb14e1",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -50039,6 +50243,7 @@
             "prev_ver": 503316482,
             "name": "Top Traps 2 Logo |sheet 667",
             "uuid": "8103e625-5625-4d18-ac6d-c9f1b8db1180",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Regions/Traps.png",
@@ -50098,6 +50303,7 @@
             "prev_ver": 503316482,
             "name": "Top traps 3",
             "uuid": "53e04cba-eb30-4155-bdd4-9400434aed4d",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -50123,6 +50329,7 @@
             "prev_ver": 503316482,
             "name": "Top Traps 3 Logo |sheet 670",
             "uuid": "bd559bd3-d9d1-4674-a6a0-25843fd282b1",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Regions/Traps.png",
@@ -50182,6 +50389,7 @@
             "prev_ver": 503316482,
             "name": "Top traps 4",
             "uuid": "aa2f4d41-7cb4-411d-a41f-ba59424467c8",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "D:/Aegis/LNY Event/deck_ban_sidebar.png"
@@ -50207,6 +50415,7 @@
             "prev_ver": 503316482,
             "name": "Top Traps 4 Logo |sheet 673",
             "uuid": "53b1e174-d538-4c8f-b423-e8064f83df24",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/Regions/Traps.png",
@@ -50351,6 +50560,7 @@
             "prev_ver": 503316482,
             "name": "Victory Screen.png |sheet 209",
             "uuid": "80af390c-7074-4365-af38-9a104252b485",
+            "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://github.com/hivar94/AegisEsports/raw/main/LOR/Assets/LNY/ED_Win.png",
