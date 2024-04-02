@@ -1,5 +1,5 @@
 {
-    "current_scene": "Analyst Desk 3",
+    "current_scene": "Analyst Desk 2",
     "current_program_scene": "Caster Desk 2",
     "scene_order": [
         {
@@ -889,7 +889,7 @@
             "settings": {
                 "custom_size": true,
                 "cx": 456,
-                "cy": 660,
+                "cy": 658,
                 "id_counter": 0,
                 "items": [
                     {
@@ -969,44 +969,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 1 |sheet 5",
-                        "source_uuid": "bb7490ae-74a4-4011-b19d-1054c991ba1a",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 228.0,
-                            "y": 610.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 65,
-                        "group_item_backup": false,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -1043,6 +1005,44 @@
                             "duration": 0
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 1 |sheet 5",
+                        "source_uuid": "bb7490ae-74a4-4011-b19d-1054c991ba1a",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 226.0,
+                            "y": 605.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 341.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 65,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -1062,10 +1062,10 @@
                 "libobs.hide_scene_item.76": [],
                 "libobs.show_scene_item.64": [],
                 "libobs.hide_scene_item.64": [],
-                "libobs.show_scene_item.65": [],
-                "libobs.hide_scene_item.65": [],
                 "libobs.show_scene_item.80": [],
-                "libobs.hide_scene_item.80": []
+                "libobs.hide_scene_item.80": [],
+                "libobs.show_scene_item.65": [],
+                "libobs.hide_scene_item.65": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1110,7 +1110,7 @@
             "settings": {
                 "custom_size": true,
                 "cx": 456,
-                "cy": 660,
+                "cy": 658,
                 "id_counter": 0,
                 "items": [
                     {
@@ -1190,44 +1190,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 2 |sheet 7",
-                        "source_uuid": "9e485e7b-138e-45e4-ad7f-b5aab26afb27",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 228.0,
-                            "y": 610.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 67,
-                        "group_item_backup": false,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -1264,6 +1226,44 @@
                             "duration": 0
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 2 |sheet 7",
+                        "source_uuid": "9e485e7b-138e-45e4-ad7f-b5aab26afb27",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 225.0,
+                            "y": 605.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 341.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 67,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -1283,10 +1283,10 @@
                 "libobs.hide_scene_item.75": [],
                 "libobs.show_scene_item.66": [],
                 "libobs.hide_scene_item.66": [],
-                "libobs.show_scene_item.67": [],
-                "libobs.hide_scene_item.67": [],
                 "libobs.show_scene_item.81": [],
-                "libobs.hide_scene_item.81": []
+                "libobs.hide_scene_item.81": [],
+                "libobs.show_scene_item.67": [],
+                "libobs.hide_scene_item.67": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1331,7 +1331,7 @@
             "settings": {
                 "custom_size": true,
                 "cx": 456,
-                "cy": 660,
+                "cy": 658,
                 "id_counter": 0,
                 "items": [
                     {
@@ -1411,44 +1411,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 3 |sheet 9",
-                        "source_uuid": "8b929635-9ff9-4b62-bd5c-70b4763506b6",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 228.0,
-                            "y": 610.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 71,
-                        "group_item_backup": false,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -1485,6 +1447,44 @@
                             "duration": 0
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 3 |sheet 9",
+                        "source_uuid": "8b929635-9ff9-4b62-bd5c-70b4763506b6",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 228.0,
+                            "y": 604.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 353.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 71,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -1504,10 +1504,10 @@
                 "libobs.hide_scene_item.74": [],
                 "libobs.show_scene_item.70": [],
                 "libobs.hide_scene_item.70": [],
-                "libobs.show_scene_item.71": [],
-                "libobs.hide_scene_item.71": [],
                 "libobs.show_scene_item.82": [],
-                "libobs.hide_scene_item.82": []
+                "libobs.hide_scene_item.82": [],
+                "libobs.show_scene_item.71": [],
+                "libobs.hide_scene_item.71": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -6436,44 +6436,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 1 |sheet 5",
-                        "source_uuid": "bb7490ae-74a4-4011-b19d-1054c991ba1a",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 513.0,
-                            "y": 872.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 65,
-                        "group_item_backup": true,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -6501,6 +6463,44 @@
                         "id": 80,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 1 |sheet 5",
+                        "source_uuid": "bb7490ae-74a4-4011-b19d-1054c991ba1a",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 511.0,
+                            "y": 867.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 341.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 65,
+                        "group_item_backup": true,
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -6628,44 +6628,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 2 |sheet 7",
-                        "source_uuid": "9e485e7b-138e-45e4-ad7f-b5aab26afb27",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1396.0,
-                            "y": 872.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 67,
-                        "group_item_backup": true,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -6693,6 +6655,44 @@
                         "id": 81,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 2 |sheet 7",
+                        "source_uuid": "9e485e7b-138e-45e4-ad7f-b5aab26afb27",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1393.0,
+                            "y": 867.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 341.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 67,
+                        "group_item_backup": true,
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -6823,7 +6823,7 @@
                         "name": "Analyst Top",
                         "source_uuid": "c4eb5ad5-5531-4e25-9cb3-21abd543b574",
                         "visible": true,
-                        "locked": false,
+                        "locked": true,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
@@ -7136,44 +7136,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 1 |sheet 5",
-                        "source_uuid": "bb7490ae-74a4-4011-b19d-1054c991ba1a",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 407.0,
-                            "y": 890.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 65,
-                        "group_item_backup": true,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -7201,6 +7163,44 @@
                         "id": 80,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 1 |sheet 5",
+                        "source_uuid": "bb7490ae-74a4-4011-b19d-1054c991ba1a",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 405.0,
+                            "y": 885.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 341.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 65,
+                        "group_item_backup": true,
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -7328,44 +7328,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 2 |sheet 7",
-                        "source_uuid": "9e485e7b-138e-45e4-ad7f-b5aab26afb27",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 954.0,
-                            "y": 890.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 67,
-                        "group_item_backup": true,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -7393,6 +7355,44 @@
                         "id": 81,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 2 |sheet 7",
+                        "source_uuid": "9e485e7b-138e-45e4-ad7f-b5aab26afb27",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 951.0,
+                            "y": 885.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 341.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 67,
+                        "group_item_backup": true,
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -7520,44 +7520,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 3 |sheet 9",
-                        "source_uuid": "8b929635-9ff9-4b62-bd5c-70b4763506b6",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1500.0,
-                            "y": 890.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 71,
-                        "group_item_backup": true,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -7585,6 +7547,44 @@
                         "id": 82,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 3 |sheet 9",
+                        "source_uuid": "8b929635-9ff9-4b62-bd5c-70b4763506b6",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1500.0,
+                            "y": 884.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 353.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 71,
+                        "group_item_backup": true,
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -8066,44 +8066,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 1 |sheet 5",
-                        "source_uuid": "bb7490ae-74a4-4011-b19d-1054c991ba1a",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 737.0,
-                            "y": 890.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 65,
-                        "group_item_backup": true,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -8131,6 +8093,44 @@
                         "id": 80,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 1 |sheet 5",
+                        "source_uuid": "bb7490ae-74a4-4011-b19d-1054c991ba1a",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 735.0,
+                            "y": 885.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 341.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 65,
+                        "group_item_backup": true,
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -8258,44 +8258,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 2 |sheet 7",
-                        "source_uuid": "9e485e7b-138e-45e4-ad7f-b5aab26afb27",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1183.0,
-                            "y": 890.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 67,
-                        "group_item_backup": true,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -8323,6 +8285,44 @@
                         "id": 81,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 2 |sheet 7",
+                        "source_uuid": "9e485e7b-138e-45e4-ad7f-b5aab26afb27",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1180.0,
+                            "y": 885.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 341.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 67,
+                        "group_item_backup": true,
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -8450,44 +8450,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Analyst N 3 |sheet 9",
-                        "source_uuid": "8b929635-9ff9-4b62-bd5c-70b4763506b6",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1636.0,
-                            "y": 890.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 4,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 400.0,
-                            "y": 50.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 71,
-                        "group_item_backup": true,
-                        "scale_filter": "area",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Caster-Desk-W2.png",
                         "source_uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
                         "visible": true,
@@ -8515,6 +8477,44 @@
                         "id": 82,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Analyst N 3 |sheet 9",
+                        "source_uuid": "8b929635-9ff9-4b62-bd5c-70b4763506b6",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1636.0,
+                            "y": 884.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 4,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 353.0,
+                            "y": 50.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 71,
+                        "group_item_backup": true,
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -8833,10 +8833,9 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "file": "C:/Snaz/TextFiles/ChronoDown.txt",
-                "outline": true,
+                "outline": false,
                 "read_from_file": false,
                 "source": "Analyst N 1 |sheet 5",
-                "text": "",
                 "undo_sname": "Caster TItle",
                 "font": {
                     "face": "Owners TRIAL XWide",
@@ -8846,7 +8845,7 @@
                 },
                 "align": "left",
                 "valign": "top",
-                "color": 4293848814,
+                "color": 4286341177,
                 "opacity": 100,
                 "gradient_color": 16777215,
                 "gradient_opacity": 100,
@@ -8861,7 +8860,8 @@
                 "extents_cx": 100,
                 "extents_cy": 100,
                 "transform": 1,
-                "antialiasing": true
+                "antialiasing": true,
+                "text": "Rain"
             },
             "mixers": 0,
             "sync": 0,
@@ -8888,10 +8888,9 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "file": "C:/Snaz/TextFiles/ChronoDown.txt",
-                "outline": true,
+                "outline": false,
                 "read_from_file": false,
                 "source": "Analyst N 2 |sheet 7",
-                "text": "",
                 "undo_sname": "Caster TItle",
                 "font": {
                     "face": "Owners TRIAL XWide",
@@ -8901,7 +8900,7 @@
                 },
                 "align": "left",
                 "valign": "top",
-                "color": 4293848814,
+                "color": 4286341177,
                 "opacity": 100,
                 "gradient_color": 16777215,
                 "gradient_opacity": 100,
@@ -8916,7 +8915,8 @@
                 "extents_cx": 100,
                 "extents_cy": 100,
                 "transform": 1,
-                "antialiasing": true
+                "antialiasing": true,
+                "text": "Rain"
             },
             "mixers": 0,
             "sync": 0,
@@ -8943,10 +8943,9 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "file": "C:/Snaz/TextFiles/ChronoDown.txt",
-                "outline": true,
+                "outline": false,
                 "read_from_file": false,
                 "source": "Analyst N 3 |sheet 9",
-                "text": "",
                 "undo_sname": "Caster TItle",
                 "font": {
                     "face": "Owners TRIAL XWide",
@@ -8956,7 +8955,7 @@
                 },
                 "align": "left",
                 "valign": "top",
-                "color": 4293848814,
+                "color": 4286341177,
                 "opacity": 100,
                 "gradient_color": 16777215,
                 "gradient_opacity": 100,
@@ -8971,7 +8970,8 @@
                 "extents_cx": 100,
                 "extents_cy": 100,
                 "transform": 1,
-                "antialiasing": true
+                "antialiasing": true,
+                "text": "Rain"
             },
             "mixers": 0,
             "sync": 0,
@@ -9719,7 +9719,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     },
                     {
@@ -10065,7 +10065,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     },
                     {
