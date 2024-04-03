@@ -1,5 +1,5 @@
 {
-    "current_scene": "Analyst Desk 2",
+    "current_scene": "Player Nested",
     "current_program_scene": "Caster Desk 2",
     "scene_order": [
         {
@@ -2580,7 +2580,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 648.0,
-                            "y": 855.0
+                            "y": 858.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -6035,7 +6035,7 @@
             "prev_ver": 503316482,
             "name": "Aegis Logo 2 Caster",
             "uuid": "ed34e507-a361-4e0f-bca2-5dea9ae30efa",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Casters/AegisLogo2Caster.png"
@@ -6061,7 +6061,7 @@
             "prev_ver": 503316482,
             "name": "AegisLogo",
             "uuid": "786e17c7-9e9a-42bd-b559-4e6e8ce345a8",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/In-Game/AegisLogo.png"
@@ -8803,7 +8803,7 @@
             "prev_ver": 503316482,
             "name": "Analyst Desk T",
             "uuid": "0435a76b-d5f9-4ca9-ade9-9fe9f5776b9c",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Analyst-Desk-Name.png"
@@ -9075,7 +9075,7 @@
             "prev_ver": 503316482,
             "name": "Background Image",
             "uuid": "f5e5e91c-1589-45dc-8c9b-229f62e8b4f4",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Backgrounds/Set%2011/Set%2011%20BG.mp4",
@@ -10962,7 +10962,7 @@
             "prev_ver": 503316482,
             "name": "Caster Desk T",
             "uuid": "e696af0f-f293-4a56-970d-cc571504c2f0",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Casters/Set 11 Caster Header.png"
@@ -10988,7 +10988,7 @@
             "prev_ver": 503316482,
             "name": "Caster Desk Title",
             "uuid": "81b27fe9-9242-405f-a9fb-71261fae8270",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Casters/Set 11 Caster Title.png"
@@ -11179,7 +11179,7 @@
             "prev_ver": 503316482,
             "name": "Caster-Desk-W2.png",
             "uuid": "a8007b75-64e3-4842-a100-be3c06377f5f",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Casters/Set 11 Caster Full Border.png",
@@ -11206,7 +11206,7 @@
             "prev_ver": 503316482,
             "name": "Caster-IG-BG.png",
             "uuid": "0410f079-58a2-409f-aec7-98ad0af81629",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/In-Game/CastersBG.png"
@@ -11267,7 +11267,7 @@
             "prev_ver": 503316482,
             "name": "Day1Format",
             "uuid": "fa76c78e-9850-409e-960b-a5b490107ed9",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Format/Day1.png"
@@ -11293,7 +11293,7 @@
             "prev_ver": 503316482,
             "name": "Day2Format",
             "uuid": "367b1584-9113-4bf4-ae4b-a72f3b7c0882",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Format/Day2.png"
@@ -11319,7 +11319,7 @@
             "prev_ver": 503316482,
             "name": "Day3Format",
             "uuid": "a08dbe79-d536-4a41-960f-1e769b2716bf",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Format/Day3.png"
@@ -11486,7 +11486,7 @@
             "prev_ver": 503316482,
             "name": "EventHeader",
             "uuid": "62e09dfc-ac82-40ab-a051-13f34ce43154",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Format/EventHeader.png"
@@ -11704,7 +11704,7 @@
             "prev_ver": 503316482,
             "name": "ExaltedBar",
             "uuid": "62bfeb1e-2864-42eb-bc83-8a4b7aeba19a",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/In-Game/ExaltedBar.png"
@@ -12044,7 +12044,7 @@
             "prev_ver": 503316482,
             "name": "IG-Overlay.png",
             "uuid": "687d9b43-8c58-445d-9e3c-0e05f3f07e77",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/In-Game/AotATopBG.png"
@@ -12070,7 +12070,7 @@
             "prev_ver": 503316482,
             "name": "IG-Region-D.png",
             "uuid": "595b0454-5c74-413b-a9b4-d3fe326d2e84",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/In-Game/Set 11 Portal Desc.png"
@@ -12248,7 +12248,7 @@
             "prev_ver": 503316482,
             "name": "Inter Char",
             "uuid": "05fd57cd-d414-4d77-8fb7-5dcf3b7f62ca",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Intermission/Ahri.png"
@@ -12274,7 +12274,7 @@
             "prev_ver": 503316482,
             "name": "Inter Content BG",
             "uuid": "40c4120f-2395-41a7-b809-2b189967ece4",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Intermission/Inter Content Static.png",
@@ -12916,7 +12916,7 @@
             "prev_ver": 503316482,
             "name": "League Arc |sheet 63",
             "uuid": "5d370426-cac2-425e-986f-9b83c774286b",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/AotA.png"
@@ -17211,7 +17211,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 648.0,
-                            "y": 855.0
+                            "y": 858.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -17622,7 +17622,7 @@
             "prev_ver": 503316482,
             "name": "Player-IG-BG.png",
             "uuid": "09765053-f075-47c5-a3a4-e84fd1b63ecb",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/In-Game/PlayerPointsBG.png",
@@ -17843,7 +17843,7 @@
             "prev_ver": 503316482,
             "name": "PrizingInfo",
             "uuid": "ab941e85-aea8-4a0c-86ff-ccef8ad784a8",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Prizing/AotAPrizing.png"
@@ -19772,7 +19772,7 @@
             "prev_ver": 503316482,
             "name": "UpcomingBG",
             "uuid": "9f9e8516-6ee3-41be-8127-eaccc44fd429",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Upcoming/UpcomingBG.png"
@@ -19798,7 +19798,7 @@
             "prev_ver": 503316482,
             "name": "UpcomingTitle",
             "uuid": "bffa4787-64e3-4289-89e2-353f8df55fc1",
-            "id": "xObsAsyncImageSource",
+            "id": "",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 11/Elements/Upcoming/LobbyHeader.png"
