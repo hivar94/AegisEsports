@@ -17,7 +17,7 @@
 		2. [Anton](https://fonts.google.com/specimen/Anton)
 		3. [MADE Soulmaze](https://www.dafont.com/made-soulmaze.font)
 	3. [Timer Script](https://tools.aegisesports.gg/assets/aegiscountdownadaptivetime.lua)
-	4. [VLC Player](https://www.videolan.org/vlc/download-windows.html)
+	4. [VLC Player](https://www.videolan.org/vlc/download-windows.html) (Make sure that the 32/64-bit version matches to your OBS. If you are on 64-bit OBS, download and install 64-bit VLC, for instance.)
 	5. [OBS Sheet Tool](https://github.com/DaBenjamins/obs-google-sheet-importer#setting-browser-url)
 3. Install plugins into your OBS
 4. Verify Plugins in OBS
