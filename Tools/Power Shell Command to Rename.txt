@@ -1,2 +1,3 @@
 Get-ChildItem -Path C:\Github\AegisEsports\LOR\Assets\Flags -Recurse | Rename-item -NewName {$_.Basename.ToUpper() + $_.extension}
 
+Get-ChildItem 'C:\Tools\video2x\output' | rename-item -newname { $_.name.substring(0,$_.name.length-7) + $_.extension }
