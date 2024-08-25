@@ -16,7 +16,7 @@
 		1. [Montserrat](https://fonts.google.com/specimen/Montserrat)
 		2. [Anton](https://fonts.google.com/specimen/Anton)
 		3. [MADE Soulmaze](https://www.dafont.com/made-soulmaze.font)
-                4. [Owners](https://cdn.discordapp.com/attachments/1181302047413370901/1195144969367855214/Owners-Font.zip?ex=66cc64bd&is=66cb133d&hm=3a9ca72be29cac079045d99f6803dad62d69f84370fa34eda020a03cbf35bcb7&)
+  		4. [Owners](https://cdn.discordapp.com/attachments/1181302047413370901/1195144969367855214/Owners-Font.zip?ex=66cc64bd&is=66cb133d&hm=3a9ca72be29cac079045d99f6803dad62d69f84370fa34eda020a03cbf35bcb7&)
 	3. [Timer Script](https://tools.aegisesports.gg/assets/aegiscountdownadaptivetime.lua)
 	4. [VLC Player](https://www.videolan.org/vlc/download-windows.html) (Make sure that the 32/64-bit version matches to your OBS. If you are on 64-bit OBS, download and install 64-bit VLC, for instance.)
 	5. [OBS Sheet Tool](https://github.com/DaBenjamins/obs-google-sheet-importer#setting-browser-url)
