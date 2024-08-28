@@ -1,6 +1,6 @@
 {
-    "current_scene": "Player 8",
-    "current_program_scene": "Upcoming Lobby",
+    "current_scene": "Caster Desk 2",
+    "current_program_scene": "Player 1",
     "scene_order": [
         {
             "name": "Intermission"
@@ -63,7 +63,7 @@
             "name": "Interview"
         }
     ],
-    "name": "AotA 2",
+    "name": "AotA 2 3",
     "groups": [
         {
             "prev_ver": 503316482,
@@ -122,8 +122,8 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 203.0,
-                            "y": 787.0
+                            "x": 200.0,
+                            "y": 790.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -142,7 +142,7 @@
                         "crop_bottom": 0,
                         "id": 32,
                         "group_item_backup": false,
-                        "scale_filter": "lanczos",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -161,7 +161,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 470.0,
-                            "y": 788.0
+                            "y": 790.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -180,7 +180,7 @@
                         "crop_bottom": 0,
                         "id": 12,
                         "group_item_backup": false,
-                        "scale_filter": "lanczos",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -354,7 +354,7 @@
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 632.0,
+                            "x": 633.0,
                             "y": 50.0
                         },
                         "crop_left": 0,
@@ -537,7 +537,7 @@
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 632.0,
+                            "x": 633.0,
                             "y": 50.0
                         },
                         "crop_left": 0,
@@ -1783,7 +1783,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 92.0,
-                            "y": 205.0
+                            "y": 204.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -1799,7 +1799,7 @@
                         "crop_left": 4,
                         "crop_top": 4,
                         "crop_right": 17,
-                        "crop_bottom": 19,
+                        "crop_bottom": 17,
                         "id": 71,
                         "group_item_backup": false,
                         "scale_filter": "bilinear",
@@ -1947,7 +1947,7 @@
                         "crop_bottom": 891,
                         "id": 73,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -2077,8 +2077,8 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 777.0,
-                            "y": 43.0
+                            "x": 776.0,
+                            "y": 44.0
                         },
                         "scale": {
                             "x": 0.26207304000854492,
@@ -2097,7 +2097,7 @@
                         "crop_bottom": 0,
                         "id": 14,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -2211,614 +2211,6 @@
                             "duration": 0
                         },
                         "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 4|sheet 83",
-                        "source_uuid": "70235f35-527f-4397-88c6-322a20251a4b",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 130.0,
-                            "y": 846.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 145.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 25,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 3|sheet 82",
-                        "source_uuid": "3c1cd1bd-d700-4e79-a08d-ea0a204c628f",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 130.0,
-                            "y": 665.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 146.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 24,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 2|sheet 81",
-                        "source_uuid": "2d5f3fdc-bbb6-44ca-9de2-7814f9ab897d",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 130.0,
-                            "y": 487.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 145.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 23,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 1|sheet 80",
-                        "source_uuid": "6e865efe-50ab-4971-b259-38a768d03be7",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 130.0,
-                            "y": 305.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 148.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 22,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 4 |sheet 79",
-                        "source_uuid": "4c662034-cf90-434c-8cfa-5786e55028fc",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 311.0,
-                            "y": 829.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 559.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 21,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 3 |sheet 78",
-                        "source_uuid": "6cd95c74-5695-4a25-8bf8-1c708d3ec345",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 311.0,
-                            "y": 652.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 559.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 20,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 2 |sheet 77",
-                        "source_uuid": "fa25b268-02e9-4a75-bb70-a1a23bcc3589",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 311.0,
-                            "y": 474.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 559.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 19,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 1 |sheet 76",
-                        "source_uuid": "12effcda-f7d1-4b02-b64e-259fe8d9017f",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 311.0,
-                            "y": 296.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 559.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 18,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 8|sheet 91",
-                        "source_uuid": "654ce841-d6e3-4d21-be4c-009e0209e894",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1040.0,
-                            "y": 843.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 141.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 31,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 7|sheet 90",
-                        "source_uuid": "fff57406-a69a-4825-8b75-a7645a94d9df",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1049.0,
-                            "y": 662.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 132.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 32,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 6|sheet 89",
-                        "source_uuid": "ae0526f7-debf-4882-8737-64e90f04a866",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1050.0,
-                            "y": 489.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 125.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 33,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 5|sheet 88",
-                        "source_uuid": "70e65112-96d2-481c-a6bf-ea93062ba3e6",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1047.0,
-                            "y": 308.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 136.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 34,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 8 |sheet 87",
-                        "source_uuid": "145749a0-c4e4-46ed-a5ef-c6067084bf69",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1193.0,
-                            "y": 831.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 599.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 27,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 7 |sheet 86",
-                        "source_uuid": "4b59cacd-3ee4-4a7d-be12-caf4b7e1adc1",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1198.0,
-                            "y": 652.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 581.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 28,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 6 |sheet 85",
-                        "source_uuid": "fa0faf45-08ef-4061-aad5-aff21dbf5e18",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1201.0,
-                            "y": 475.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 576.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 29,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 5 |sheet 84",
-                        "source_uuid": "cd6f2bc9-03f8-426e-ac6c-2d792d0ded75",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1202.0,
-                            "y": 293.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 586.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 30,
-                        "group_item_backup": false,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
                     }
                 ]
             },
@@ -2835,39 +2227,7 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "libobs.show_scene_item.16": [],
-                "libobs.hide_scene_item.16": [],
-                "libobs.show_scene_item.25": [],
-                "libobs.hide_scene_item.25": [],
-                "libobs.show_scene_item.24": [],
-                "libobs.hide_scene_item.24": [],
-                "libobs.show_scene_item.23": [],
-                "libobs.hide_scene_item.23": [],
-                "libobs.show_scene_item.22": [],
-                "libobs.hide_scene_item.22": [],
-                "libobs.show_scene_item.21": [],
-                "libobs.hide_scene_item.21": [],
-                "libobs.show_scene_item.20": [],
-                "libobs.hide_scene_item.20": [],
-                "libobs.show_scene_item.19": [],
-                "libobs.hide_scene_item.19": [],
-                "libobs.show_scene_item.18": [],
-                "libobs.hide_scene_item.18": [],
-                "libobs.show_scene_item.31": [],
-                "libobs.hide_scene_item.31": [],
-                "libobs.show_scene_item.32": [],
-                "libobs.hide_scene_item.32": [],
-                "libobs.show_scene_item.33": [],
-                "libobs.hide_scene_item.33": [],
-                "libobs.show_scene_item.34": [],
-                "libobs.hide_scene_item.34": [],
-                "libobs.show_scene_item.27": [],
-                "libobs.hide_scene_item.27": [],
-                "libobs.show_scene_item.28": [],
-                "libobs.hide_scene_item.28": [],
-                "libobs.show_scene_item.29": [],
-                "libobs.hide_scene_item.29": [],
-                "libobs.show_scene_item.30": [],
-                "libobs.hide_scene_item.30": []
+                "libobs.hide_scene_item.16": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -3181,13 +2541,10 @@
         "pasteTransformHotkey": [],
         "scripts-tool": [
             {
-                "path": "C:/Program Files/obs-studio/data/obs-plugins/frontend-tools/scripts/countdownadaptivetime.lua",
+                "path": "C:/Program Files/obs-studio/data/obs-plugins/frontend-tools/scripts/aegiscountdownadaptivetime.lua",
                 "settings": {
-                    "source": "Timer",
-                    "reset_hotkey": [],
-                    "duration": 10,
-                    "start_text": "",
-                    "stop_text": "SOON"
+                    "duration": 50,
+                    "reset_hotkey": []
                 }
             }
         ],
@@ -5539,8 +4896,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -5550,6 +4907,7 @@
             "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
+                "undo_uuid": "07f98aa4-1466-4ffa-a958-654fa386a95c",
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 12/Elements/Caster Aegis.png"
             },
             "mixers": 0,
@@ -6516,8 +5874,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -7410,8 +6768,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -8420,8 +7778,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -8518,8 +7876,8 @@
                 "outline": false,
                 "read_from_file": false,
                 "source": "Analyst N 1 |sheet 5",
-                "undo_sname": "Caster TItle",
                 "text": "Invectiv",
+                "undo_sname": "Caster TItle",
                 "font": {
                     "face": "Owners TRIAL XWide",
                     "flags": 1,
@@ -8573,8 +7931,8 @@
                 "outline": false,
                 "read_from_file": false,
                 "source": "Analyst N 2 |sheet 7",
-                "undo_sname": "Caster TItle",
                 "text": "BoopasaurusRex",
+                "undo_sname": "Caster TItle",
                 "font": {
                     "face": "Owners TRIAL XWide",
                     "flags": 1,
@@ -8628,8 +7986,8 @@
                 "outline": false,
                 "read_from_file": false,
                 "source": "Analyst N 3 |sheet 9",
-                "undo_sname": "Caster TItle",
                 "text": "",
+                "undo_sname": "Caster TItle",
                 "font": {
                     "face": "Owners TRIAL XWide",
                     "flags": 1,
@@ -8683,8 +8041,8 @@
                 "outline": true,
                 "read_from_file": false,
                 "source": "Analyst N 4 |sheet 11",
-                "undo_sname": "Caster TItle",
                 "text": "",
+                "undo_sname": "Caster TItle",
                 "font": {
                     "face": "Owners TRIAL XWide",
                     "flags": 1,
@@ -8900,8 +8258,8 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": true,
-                "undo_sname": "Casters",
                 "text": "Test",
+                "undo_sname": "Casters",
                 "font": {
                     "face": "OwnersTRIAL",
                     "flags": 1,
@@ -9215,12 +8573,12 @@
                     {
                         "name": "Aegis Logo 2 Caster",
                         "source_uuid": "07f98aa4-1466-4ffa-a958-654fa386a95c",
-                        "visible": true,
+                        "visible": false,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 870.0,
+                            "y": 422.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -9239,7 +8597,7 @@
                         "crop_bottom": 0,
                         "id": 43,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "lanczos",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -9301,7 +8659,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 513.0,
+                            "x": 516.0,
                             "y": 267.0
                         },
                         "scale": {
@@ -9339,7 +8697,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 549.0,
+                            "x": 552.0,
                             "y": 272.0
                         },
                         "scale": {
@@ -9377,7 +8735,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 513.0,
+                            "x": 516.0,
                             "y": 958.0
                         },
                         "scale": {
@@ -9388,7 +8746,7 @@
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 632.0,
+                            "x": 633.0,
                             "y": 50.0
                         },
                         "crop_left": 0,
@@ -9415,7 +8773,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 197.0,
+                            "x": 200.0,
                             "y": 267.0
                         },
                         "scale": {
@@ -9455,7 +8813,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1462.0,
+                            "x": 1402.0,
                             "y": 266.0
                         },
                         "scale": {
@@ -9493,7 +8851,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1461.0,
+                            "x": 1401.0,
                             "y": 266.0
                         },
                         "scale": {
@@ -9531,7 +8889,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1462.0,
+                            "x": 1402.0,
                             "y": 957.0
                         },
                         "scale": {
@@ -9542,7 +8900,7 @@
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 632.0,
+                            "x": 633.0,
                             "y": 50.0
                         },
                         "crop_left": 0,
@@ -9569,7 +8927,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1146.0,
+                            "x": 1086.0,
                             "y": 266.0
                         },
                         "scale": {
@@ -9681,7 +9039,7 @@
                     {
                         "name": "Top Group",
                         "source_uuid": "2349c4dc-d8a4-46bf-928a-1ea4ad805b46",
-                        "visible": true,
+                        "visible": false,
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
@@ -9715,7 +9073,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     }
                 ]
@@ -9752,8 +9110,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Stinger",
+                "transition_duration": 1000
             }
         },
         {
@@ -9974,7 +9332,7 @@
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 632.0,
+                            "x": 633.0,
                             "y": 50.0
                         },
                         "crop_left": 0,
@@ -10128,7 +9486,7 @@
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 632.0,
+                            "x": 633.0,
                             "y": 50.0
                         },
                         "crop_left": 0,
@@ -10530,8 +9888,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -10541,6 +9899,7 @@
             "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
+                "undo_uuid": "a8d84616-249a-41b6-9582-536855cb09db",
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 12/Elements/CasterTitle.png"
             },
             "mixers": 0,
@@ -10598,6 +9957,7 @@
             "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
+                "undo_uuid": "c8a2f336-23fe-41a3-8fd9-a0a20c502efc",
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 12/Elements/UpcomingTitle.png"
             },
             "mixers": 0,
@@ -10628,8 +9988,8 @@
                 "outline": false,
                 "read_from_file": false,
                 "source": "Caster N 1 |sheet 13",
-                "undo_sname": "Caster TItle",
                 "text": "Test",
+                "undo_sname": "Caster TItle",
                 "font": {
                     "face": "Owners TRIAL XWide",
                     "flags": 1,
@@ -10789,8 +10149,8 @@
             "id": "xObsAsyncImageSource",
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
-                "undo_uuid": "4704997e-4637-4047-aab9-9fb46b71cbc4",
-                "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 12/Elements/CasterRight.png"
+                "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 12/Elements/CasterRight.png",
+                "undo_uuid": "4704997e-4637-4047-aab9-9fb46b71cbc4"
             },
             "mixers": 0,
             "sync": 0,
@@ -10816,13 +10176,13 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "undo_uuid": "476cb876-4de8-4d97-a9e5-2eb0ba52c10c",
                 "text": "Ascension of the Ages 2 Day 2 ",
+                "undo_uuid": "476cb876-4de8-4d97-a9e5-2eb0ba52c10c",
                 "font": {
                     "face": "Owners TRIAL XXNarrow Black",
-                    "style": "Black",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "Black"
                 },
                 "color": 4284293413,
                 "transform": 1
@@ -11220,8 +10580,8 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "undo_uuid": "a2129507-48b8-4307-89ab-42eec9ade80a",
                 "text": "Qiyana",
+                "undo_uuid": "a2129507-48b8-4307-89ab-42eec9ade80a",
                 "font": {
                     "face": "Owners TRIAL XNarrow",
                     "flags": 1,
@@ -11676,8 +11036,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -11905,6 +11265,7 @@
             "id": "image_source",
             "versioned_id": "image_source",
             "settings": {
+                "undo_uuid": "cc9a4406-ff9d-4eb0-be47-28b66cf0855a",
                 "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 12/Elements/InGameBG.png"
             },
             "mixers": 0,
@@ -11984,8 +11345,8 @@
             "versioned_id": "xObsAsyncImageSource",
             "settings": {
                 "undo_uuid": "4a43bdfd-f827-4f18-ba1f-3e243d290699",
-                "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 12/Elements/InterRight.png",
-                "unload": false
+                "unload": false,
+                "file": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Set 12/Elements/InterRight.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -12135,8 +11496,8 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 203.0,
-                            "y": 787.0
+                            "x": 200.0,
+                            "y": 790.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -12155,7 +11516,7 @@
                         "crop_bottom": 0,
                         "id": 32,
                         "group_item_backup": true,
-                        "scale_filter": "lanczos",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -12174,7 +11535,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 470.0,
-                            "y": 788.0
+                            "y": 790.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -12193,7 +11554,7 @@
                         "crop_bottom": 0,
                         "id": 12,
                         "group_item_backup": true,
-                        "scale_filter": "lanczos",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -12290,7 +11651,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 656.0,
-                            "y": 205.0
+                            "y": 204.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -12306,7 +11667,7 @@
                         "crop_left": 4,
                         "crop_top": 4,
                         "crop_right": 17,
-                        "crop_bottom": 19,
+                        "crop_bottom": 17,
                         "id": 71,
                         "group_item_backup": true,
                         "scale_filter": "bilinear",
@@ -12466,8 +11827,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Stinger",
+                "transition_duration": 1000
             }
         },
         {
@@ -12540,8 +11901,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -12641,8 +12002,8 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": false,
-                "undo_sname": "Casters",
                 "text": "Ascension of the Ages 2",
+                "undo_sname": "Casters",
                 "font": {
                     "face": "Owners TRIAL XNarrow Black",
                     "flags": 1,
@@ -12682,10 +12043,10 @@
             "settings": {
                 "input": "https://raw.githubusercontent.com/hivar94/AegisEsports/main/TFT/Assets/Backgrounds/Set%2011/Set%2011%20BG.mp4",
                 "seekable": true,
-                "local_file": "C:/Users/tristan/Downloads/Caster BG.mp4",
                 "is_local_file": true,
                 "looping": true,
-                "clear_on_media_end": false
+                "clear_on_media_end": false,
+                "local_file": "C:/Users/tristan/Downloads/Caster BG.mp4"
             },
             "mixers": 255,
             "sync": 0,
@@ -13095,10 +12456,10 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1543.0,
-                            "y": 998.0
+                            "y": 992.0
                         },
                         "scale": {
-                            "x": 0.21881607174873352,
+                            "x": 0.21881604194641113,
                             "y": 0.21875
                         },
                         "align": 5,
@@ -13106,7 +12467,7 @@
                         "bounds_align": 0,
                         "bounds": {
                             "x": 331.0,
-                            "y": 50.0
+                            "y": 62.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -13114,7 +12475,7 @@
                         "crop_bottom": 0,
                         "id": 37,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -13159,8 +12520,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -13409,10 +12770,10 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1543.0,
-                            "y": 998.0
+                            "y": 992.0
                         },
                         "scale": {
-                            "x": 0.21881610155105591,
+                            "x": 0.21881604194641113,
                             "y": 0.21875
                         },
                         "align": 5,
@@ -13420,7 +12781,7 @@
                         "bounds_align": 0,
                         "bounds": {
                             "x": 331.0,
-                            "y": 50.0
+                            "y": 62.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -13428,7 +12789,7 @@
                         "crop_bottom": 0,
                         "id": 23,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -13473,8 +12834,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -13723,10 +13084,10 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1543.0,
-                            "y": 998.0
+                            "y": 992.0
                         },
                         "scale": {
-                            "x": 0.21881610155105591,
+                            "x": 0.21881604194641113,
                             "y": 0.21875
                         },
                         "align": 5,
@@ -13734,7 +13095,7 @@
                         "bounds_align": 0,
                         "bounds": {
                             "x": 331.0,
-                            "y": 50.0
+                            "y": 62.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -13742,7 +13103,7 @@
                         "crop_bottom": 0,
                         "id": 10,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -13787,8 +13148,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -14037,10 +13398,10 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1543.0,
-                            "y": 998.0
+                            "y": 992.0
                         },
                         "scale": {
-                            "x": 0.21881610155105591,
+                            "x": 0.21881604194641113,
                             "y": 0.21875
                         },
                         "align": 5,
@@ -14048,7 +13409,7 @@
                         "bounds_align": 0,
                         "bounds": {
                             "x": 331.0,
-                            "y": 50.0
+                            "y": 62.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -14056,7 +13417,7 @@
                         "crop_bottom": 0,
                         "id": 10,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -14101,8 +13462,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -14351,10 +13712,10 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1543.0,
-                            "y": 998.0
+                            "y": 992.0
                         },
                         "scale": {
-                            "x": 0.21881610155105591,
+                            "x": 0.21881604194641113,
                             "y": 0.21875
                         },
                         "align": 5,
@@ -14362,7 +13723,7 @@
                         "bounds_align": 0,
                         "bounds": {
                             "x": 331.0,
-                            "y": 50.0
+                            "y": 62.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -14370,7 +13731,7 @@
                         "crop_bottom": 0,
                         "id": 10,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -14415,8 +13776,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -14665,10 +14026,10 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1543.0,
-                            "y": 998.0
+                            "y": 992.0
                         },
                         "scale": {
-                            "x": 0.21881608664989471,
+                            "x": 0.21881604194641113,
                             "y": 0.21875
                         },
                         "align": 5,
@@ -14676,7 +14037,7 @@
                         "bounds_align": 0,
                         "bounds": {
                             "x": 331.0,
-                            "y": 50.0
+                            "y": 62.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -14684,7 +14045,7 @@
                         "crop_bottom": 0,
                         "id": 10,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -14729,8 +14090,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -14979,10 +14340,10 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1543.0,
-                            "y": 998.0
+                            "y": 992.0
                         },
                         "scale": {
-                            "x": 0.21881608664989471,
+                            "x": 0.21881604194641113,
                             "y": 0.21875
                         },
                         "align": 5,
@@ -14990,7 +14351,7 @@
                         "bounds_align": 0,
                         "bounds": {
                             "x": 331.0,
-                            "y": 50.0
+                            "y": 62.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -14998,7 +14359,7 @@
                         "crop_bottom": 0,
                         "id": 10,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -15043,8 +14404,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -15293,10 +14654,10 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1543.0,
-                            "y": 998.0
+                            "y": 992.0
                         },
                         "scale": {
-                            "x": 0.21881608664989471,
+                            "x": 0.21881604194641113,
                             "y": 0.21875
                         },
                         "align": 5,
@@ -15304,7 +14665,7 @@
                         "bounds_align": 0,
                         "bounds": {
                             "x": 331.0,
-                            "y": 50.0
+                            "y": 62.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -15312,7 +14673,7 @@
                         "crop_bottom": 0,
                         "id": 10,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -15357,8 +14718,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -15655,9 +15016,9 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": false,
+                "text": "Sshade ",
                 "undo_sname": "Casters",
                 "undo_uuid": "bdedd5a1-90ee-4d6f-913f-2155bb656411",
-                "text": "Sshade ",
                 "font": {
                     "face": "Owners TRIAL XNarrow",
                     "flags": 1,
@@ -15738,8 +15099,8 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": false,
-                "undo_sname": "Casters",
                 "text": "Oh Hey ",
+                "undo_sname": "Casters",
                 "font": {
                     "face": "Owners TRIAL XNarrow",
                     "flags": 1,
@@ -15779,8 +15140,8 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": false,
-                "undo_sname": "Casters",
                 "text": "Movie ",
+                "undo_sname": "Casters",
                 "font": {
                     "face": "Owners TRIAL XNarrow",
                     "flags": 1,
@@ -15861,8 +15222,8 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": false,
-                "undo_sname": "Casters",
                 "text": "Hydro ",
+                "undo_sname": "Casters",
                 "font": {
                     "face": "Owners TRIAL XNarrow",
                     "flags": 1,
@@ -15944,8 +15305,8 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": false,
-                "undo_sname": "Casters",
                 "text": "Hi its CQ ",
+                "undo_sname": "Casters",
                 "font": {
                     "face": "Owners TRIAL XNarrow",
                     "flags": 1,
@@ -16090,7 +15451,7 @@
                         "crop_bottom": 891,
                         "id": 73,
                         "group_item_backup": true,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -16166,32 +15527,24 @@
                         "crop_bottom": 0,
                         "id": 98,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "disable",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
-                            "id": "move_transition",
-                            "versioned_id": "move_transition",
-                            "name": "Desc G Show Transition",
+                            "id": "slide_transition",
+                            "versioned_id": "slide_transition",
+                            "name": "Desc G |sheet 46 Show Transition",
                             "transition": {
-                                "transition_in": "None",
-                                "transition_match": "None",
-                                "transition_out": "None",
-                                "position_in": 26,
-                                "zoom_in": false
+                                "direction": "left"
                             },
                             "duration": 1200
                         },
                         "hide_transition": {
-                            "id": "move_transition",
-                            "versioned_id": "move_transition",
-                            "name": "Desc G Hide Transition",
+                            "id": "slide_transition",
+                            "versioned_id": "slide_transition",
+                            "name": "Desc G |sheet 46 Hide Transition",
                             "transition": {
-                                "transition_in": "None",
-                                "transition_match": "None",
-                                "transition_out": "None",
-                                "position_out": 26,
-                                "zoom_out": false
+                                "direction": "right"
                             },
                             "duration": 1200
                         },
@@ -16206,8 +15559,8 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 15.0,
-                            "y": 1025.0
+                            "x": 21.0,
+                            "y": 1032.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -16217,7 +15570,7 @@
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 225.0,
+                            "x": 219.0,
                             "y": 42.0
                         },
                         "crop_left": 0,
@@ -16245,7 +15598,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 21.0,
-                            "y": 989.0
+                            "y": 988.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -16282,7 +15635,7 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 15.0,
+                            "x": 21.0,
                             "y": 944.0
                         },
                         "scale": {
@@ -16293,7 +15646,7 @@
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 225.0,
+                            "x": 219.0,
                             "y": 42.0
                         },
                         "crop_left": 0,
@@ -16340,7 +15693,7 @@
                         "crop_bottom": 0,
                         "id": 80,
                         "group_item_backup": false,
-                        "scale_filter": "lanczos",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -16358,18 +15711,18 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 233.0,
-                            "y": 6.0
+                            "x": 247.0,
+                            "y": 7.0
                         },
                         "scale": {
-                            "x": 1.0,
+                            "x": 1.3380782604217529,
                             "y": 1.0
                         },
                         "align": 5,
                         "bounds_type": 2,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 160.0,
+                            "x": 127.0,
                             "y": 55.0
                         },
                         "crop_left": 0,
@@ -16435,7 +15788,7 @@
                         "rot": 0.0,
                         "pos": {
                             "x": 1605.0,
-                            "y": 6.0
+                            "y": 7.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -16530,7 +15883,7 @@
                         "crop_bottom": 0,
                         "id": 120,
                         "group_item_backup": false,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "lanczos",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -16585,8 +15938,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -16596,8 +15949,8 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "text": "10 Points",
+                "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "font": {
                     "face": "Owners TRIAL Black",
                     "flags": 1,
@@ -16869,8 +16222,8 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": false,
-                "undo_sname": "Casters",
                 "text": "Trainer Sentinels",
+                "undo_sname": "Casters",
                 "font": {
                     "face": "Owners TRIAL XNarrow Black",
                     "flags": 1,
@@ -17051,8 +16404,8 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Slide",
+                "transition_duration": 1000
             }
         },
         {
@@ -17119,8 +16472,8 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "undo_sname": "Caster 1 |sheet 13 2",
                 "text": "Trainer Sentinels",
+                "undo_sname": "Caster 1 |sheet 13 2",
                 "font": {
                     "face": "MADE Soulmaze",
                     "flags": 0,
@@ -17183,15 +16536,15 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "text": "Sshade",
+                "text": "SSHADE",
+                "undo_uuid": "12effcda-f7d1-4b02-b64e-259fe8d9017f",
                 "font": {
                     "face": "Owners TRIAL XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
                 },
-                "color": 4294967295,
-                "undo_uuid": "12effcda-f7d1-4b02-b64e-259fe8d9017f"
+                "color": 4294967295
             },
             "mixers": 0,
             "sync": 0,
@@ -17218,14 +16571,14 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "text": "chabo",
+                "undo_uuid": "fa25b268-02e9-4a75-bb70-a1a23bcc3589",
                 "font": {
                     "face": "Owners TRIAL XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
                 },
-                "color": 4294967295,
-                "undo_uuid": "fa25b268-02e9-4a75-bb70-a1a23bcc3589"
+                "color": 4294967295
             },
             "mixers": 0,
             "sync": 0,
@@ -17597,9 +16950,9 @@
                     "size": 256,
                     "style": "Black"
                 },
+                "color": 4294967295,
                 "outline_size": 9,
-                "outline_color": 4286341177,
-                "color": 4294967295
+                "outline_color": 4286341177
             },
             "mixers": 0,
             "sync": 0,
@@ -17626,6 +16979,7 @@
             "versioned_id": "text_gdiplus_v2",
             "settings": {
                 "outline": false,
+                "text": "4",
                 "font": {
                     "face": "Owners TRIAL Narrow",
                     "flags": 1,
@@ -17633,8 +16987,7 @@
                     "style": "Black"
                 },
                 "outline_size": 9,
-                "outline_color": 4286341177,
-                "text": "4"
+                "outline_color": 4286341177
             },
             "mixers": 0,
             "sync": 0,
@@ -17767,9 +17120,9 @@
                 "undo_uuid": "ad06be48-a124-4a7e-bcde-a05f0a30bcf4",
                 "font": {
                     "face": "Owners TRIAL XXNarrow Black",
-                    "style": "Black",
+                    "flags": 1,
                     "size": 320,
-                    "flags": 1
+                    "style": "Black"
                 },
                 "align": "center",
                 "valign": "center",
@@ -17910,13 +17263,13 @@
                 "file": "C:/Snaz/TextFiles/ChronoDown.txt",
                 "outline": false,
                 "read_from_file": false,
+                "text": "00:14",
                 "undo_uuid": "11ed8653-7c70-49f6-aae2-f4a5287d604c",
-                "text": "05",
                 "font": {
                     "face": "Owners TRIAL XXNarrow Black",
-                    "style": "Black",
+                    "flags": 1,
                     "size": 320,
-                    "flags": 1
+                    "style": "Black"
                 },
                 "align": "right",
                 "valign": "top",
@@ -17965,13 +17318,13 @@
                 "outline": false,
                 "read_from_file": false,
                 "source": "Title |sheet 2",
-                "undo_sname": "Title",
                 "text": "Ascension of the Ages 2 Day 2 ",
+                "undo_sname": "Title",
                 "font": {
                     "face": "Owners TRIAL XXNarrow Black",
-                    "style": "Black",
+                    "flags": 1,
                     "size": 320,
-                    "flags": 1
+                    "style": "Black"
                 },
                 "align": "center",
                 "valign": "center",
@@ -18196,8 +17549,8 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 777.0,
-                            "y": 43.0
+                            "x": 776.0,
+                            "y": 44.0
                         },
                         "scale": {
                             "x": 0.26207304000854492,
@@ -18216,7 +17569,7 @@
                         "crop_bottom": 0,
                         "id": 14,
                         "group_item_backup": true,
-                        "scale_filter": "bilinear",
+                        "scale_filter": "area",
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
@@ -18306,614 +17659,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "SBPlayer Score 4|sheet 83",
-                        "source_uuid": "70235f35-527f-4397-88c6-322a20251a4b",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 130.0,
-                            "y": 846.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 145.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 25,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 3|sheet 82",
-                        "source_uuid": "3c1cd1bd-d700-4e79-a08d-ea0a204c628f",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 130.0,
-                            "y": 665.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 146.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 24,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 2|sheet 81",
-                        "source_uuid": "2d5f3fdc-bbb6-44ca-9de2-7814f9ab897d",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 130.0,
-                            "y": 487.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 145.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 23,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 1|sheet 80",
-                        "source_uuid": "6e865efe-50ab-4971-b259-38a768d03be7",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 130.0,
-                            "y": 305.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 148.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 22,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 4 |sheet 79",
-                        "source_uuid": "4c662034-cf90-434c-8cfa-5786e55028fc",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 311.0,
-                            "y": 829.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 559.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 21,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 3 |sheet 78",
-                        "source_uuid": "6cd95c74-5695-4a25-8bf8-1c708d3ec345",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 311.0,
-                            "y": 652.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 559.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 20,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 2 |sheet 77",
-                        "source_uuid": "fa25b268-02e9-4a75-bb70-a1a23bcc3589",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 311.0,
-                            "y": 474.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 559.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 19,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 1 |sheet 76",
-                        "source_uuid": "12effcda-f7d1-4b02-b64e-259fe8d9017f",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 311.0,
-                            "y": 296.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 559.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 18,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 8|sheet 91",
-                        "source_uuid": "654ce841-d6e3-4d21-be4c-009e0209e894",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1040.0,
-                            "y": 843.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 141.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 31,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 7|sheet 90",
-                        "source_uuid": "fff57406-a69a-4825-8b75-a7645a94d9df",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1049.0,
-                            "y": 662.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 132.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 32,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 6|sheet 89",
-                        "source_uuid": "ae0526f7-debf-4882-8737-64e90f04a866",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1050.0,
-                            "y": 489.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 125.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 33,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Score 5|sheet 88",
-                        "source_uuid": "70e65112-96d2-481c-a6bf-ea93062ba3e6",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1047.0,
-                            "y": 308.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 136.0,
-                            "y": 112.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 34,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 8 |sheet 87",
-                        "source_uuid": "145749a0-c4e4-46ed-a5ef-c6067084bf69",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1193.0,
-                            "y": 831.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 599.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 27,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 7 |sheet 86",
-                        "source_uuid": "4b59cacd-3ee4-4a7d-be12-caf4b7e1adc1",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1198.0,
-                            "y": 652.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 581.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 28,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 6 |sheet 85",
-                        "source_uuid": "fa0faf45-08ef-4061-aad5-aff21dbf5e18",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1201.0,
-                            "y": 475.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 576.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 29,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "SBPlayer Name 5 |sheet 84",
-                        "source_uuid": "cd6f2bc9-03f8-426e-ac6c-2d792d0ded75",
-                        "visible": true,
-                        "locked": true,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 1202.0,
-                            "y": 293.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 2,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 586.0,
-                            "y": 145.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 30,
-                        "group_item_backup": true,
-                        "scale_filter": "bilinear",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "All",
                         "source_uuid": "84cf1d4d-b85d-4389-8c69-0d7f8a3b3e69",
                         "visible": true,
@@ -18952,6 +17697,614 @@
                         "private_settings": {
                             "collapsed": false
                         }
+                    },
+                    {
+                        "name": "SBPlayer Score 8|sheet 91",
+                        "source_uuid": "654ce841-d6e3-4d21-be4c-009e0209e894",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1035.0,
+                            "y": 846.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 150.0,
+                            "y": 112.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 31,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Score 7|sheet 90",
+                        "source_uuid": "fff57406-a69a-4825-8b75-a7645a94d9df",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1035.0,
+                            "y": 666.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 150.0,
+                            "y": 112.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 32,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Score 6|sheet 89",
+                        "source_uuid": "ae0526f7-debf-4882-8737-64e90f04a866",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1035.0,
+                            "y": 486.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 150.0,
+                            "y": 112.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 33,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Score 5|sheet 88",
+                        "source_uuid": "70e65112-96d2-481c-a6bf-ea93062ba3e6",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1035.0,
+                            "y": 306.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 150.0,
+                            "y": 112.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 34,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Name 8 |sheet 87",
+                        "source_uuid": "145749a0-c4e4-46ed-a5ef-c6067084bf69",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1210.0,
+                            "y": 830.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 559.0,
+                            "y": 145.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 27,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Name 7 |sheet 86",
+                        "source_uuid": "4b59cacd-3ee4-4a7d-be12-caf4b7e1adc1",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1210.0,
+                            "y": 650.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 559.0,
+                            "y": 145.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 28,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Name 6 |sheet 85",
+                        "source_uuid": "fa0faf45-08ef-4061-aad5-aff21dbf5e18",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1210.0,
+                            "y": 470.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 559.0,
+                            "y": 145.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 29,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Name 5 |sheet 84",
+                        "source_uuid": "cd6f2bc9-03f8-426e-ac6c-2d792d0ded75",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1210.0,
+                            "y": 290.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 559.0,
+                            "y": 145.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 30,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Score 4|sheet 83",
+                        "source_uuid": "70235f35-527f-4397-88c6-322a20251a4b",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 130.0,
+                            "y": 846.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 150.0,
+                            "y": 112.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 25,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Score 3|sheet 82",
+                        "source_uuid": "3c1cd1bd-d700-4e79-a08d-ea0a204c628f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 130.0,
+                            "y": 666.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 150.0,
+                            "y": 112.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 24,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Score 2|sheet 81",
+                        "source_uuid": "2d5f3fdc-bbb6-44ca-9de2-7814f9ab897d",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 130.0,
+                            "y": 486.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 150.0,
+                            "y": 112.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 23,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Score 1|sheet 80",
+                        "source_uuid": "6e865efe-50ab-4971-b259-38a768d03be7",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 130.0,
+                            "y": 306.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 150.0,
+                            "y": 112.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 22,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Name 4 |sheet 79",
+                        "source_uuid": "4c662034-cf90-434c-8cfa-5786e55028fc",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 300.0,
+                            "y": 830.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 559.0,
+                            "y": 145.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 21,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Name 3 |sheet 78",
+                        "source_uuid": "6cd95c74-5695-4a25-8bf8-1c708d3ec345",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 300.0,
+                            "y": 650.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 559.0,
+                            "y": 145.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 20,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Name 2 |sheet 77",
+                        "source_uuid": "fa25b268-02e9-4a75-bb70-a1a23bcc3589",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 300.0,
+                            "y": 470.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 559.0,
+                            "y": 145.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 19,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "SBPlayer Name 1 |sheet 76",
+                        "source_uuid": "12effcda-f7d1-4b02-b64e-259fe8d9017f",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 300.0,
+                            "y": 290.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 559.0,
+                            "y": 145.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 18,
+                        "group_item_backup": false,
+                        "scale_filter": "area",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -18975,14 +18328,46 @@
                 "libobs.show_scene_item.12": [],
                 "libobs.hide_scene_item.12": [],
                 "libobs.show_scene_item.26": [],
-                "libobs.hide_scene_item.26": []
+                "libobs.hide_scene_item.26": [],
+                "libobs.show_scene_item.31": [],
+                "libobs.hide_scene_item.31": [],
+                "libobs.show_scene_item.32": [],
+                "libobs.hide_scene_item.32": [],
+                "libobs.show_scene_item.33": [],
+                "libobs.hide_scene_item.33": [],
+                "libobs.show_scene_item.34": [],
+                "libobs.hide_scene_item.34": [],
+                "libobs.show_scene_item.27": [],
+                "libobs.hide_scene_item.27": [],
+                "libobs.show_scene_item.28": [],
+                "libobs.hide_scene_item.28": [],
+                "libobs.show_scene_item.29": [],
+                "libobs.hide_scene_item.29": [],
+                "libobs.show_scene_item.30": [],
+                "libobs.hide_scene_item.30": [],
+                "libobs.show_scene_item.25": [],
+                "libobs.hide_scene_item.25": [],
+                "libobs.show_scene_item.24": [],
+                "libobs.hide_scene_item.24": [],
+                "libobs.show_scene_item.23": [],
+                "libobs.hide_scene_item.23": [],
+                "libobs.show_scene_item.22": [],
+                "libobs.hide_scene_item.22": [],
+                "libobs.show_scene_item.21": [],
+                "libobs.hide_scene_item.21": [],
+                "libobs.show_scene_item.20": [],
+                "libobs.hide_scene_item.20": [],
+                "libobs.show_scene_item.19": [],
+                "libobs.hide_scene_item.19": [],
+                "libobs.show_scene_item.18": [],
+                "libobs.hide_scene_item.18": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {
-                "transition_duration": 1000,
-                "transition": "Stinger"
+                "transition": "Stinger",
+                "transition_duration": 1000
             }
         },
         {
