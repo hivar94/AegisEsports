@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 46.97 62.51">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 8px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: #00a6fb;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-4" d="M29.48,2.4c-1.01-.67-1.98-1.21-2.86-1.65-1.97-.99-4.31-.99-6.28,0-.88.44-1.85.99-2.86,1.65C.91,13.33-6.19,43.9,6.48,56.4c1.87,1.84,6.7,5.79,17,6.11,10.3-.32,15.13-4.27,17-6.11,12.67-12.49,5.58-43.06-11-54Z"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g>
+      <path class="cls-4" d="M29.48,2.4c-1.01-.67-1.98-1.21-2.86-1.65-1.97-.99-4.31-.99-6.28,0-.88.44-1.85.99-2.86,1.65C.91,13.33-6.19,43.9,6.48,56.4c1.87,1.84,6.7,5.79,17,6.11,10.3-.32,15.13-4.27,17-6.11,12.67-12.49,5.58-43.06-11-54Z"/>
+      <g class="cls-3">
+        <line class="cls-1" x1="-5.52" y1="49.4" x2="52.48" y2="49.4"/>
+        <line class="cls-2" x1="-5.52" y1="38.4" x2="52.48" y2="38.4"/>
+        <polyline class="cls-2" points="-12.58 13.75 .42 6.75 12.42 13.75 23.42 6.75 35.42 13.75 48.42 6.75 59.42 13.75"/>
+      </g>
+    </g>
+  </g>
+</svg>

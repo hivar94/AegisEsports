@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.01 124.01">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #facb0f;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g>
+      <g>
+        <g id="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-2" x1="60.63" y1="123.97" x2="61.29" y2="93.98"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-2" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-2" x1="17.22" y1="104.85" x2="38.9" y2="84.11"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-3" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-2" x1=".04" y1="60.63" x2="30.04" y2="61.29"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-4" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-2" x1="19.17" y1="17.22" x2="39.9" y2="38.9"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-5" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-2" x1="63.39" y1=".04" x2="62.72" y2="30.04"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-6" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-2" x1="106.8" y1="19.17" x2="85.12" y2="39.9"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-7" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-2" x1="123.97" y1="63.39" x2="93.98" y2="62.72"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-8" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-2" x1="104.85" y1="106.8" x2="84.11" y2="85.12"/>
+        </g>
+      </g>
+      <g>
+        <g id="_x3C_Radial_Repeat_x3E_-9" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-1" x1="39.45" y1="110.95" x2="45.64" y2="97.65"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-10" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-1" x1="11.45" y1="80.66" x2="25.23" y2="75.64"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-11" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-1" x1="13.06" y1="39.45" x2="26.36" y2="45.64"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-12" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-1" x1="43.35" y1="11.44" x2="48.38" y2="25.22"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-13" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-1" x1="84.57" y1="13.06" x2="78.38" y2="26.36"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-14" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-1" x1="112.57" y1="43.35" x2="98.79" y2="48.38"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-15" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-1" x1="110.95" y1="84.57" x2="97.65" y2="78.38"/>
+        </g>
+        <g id="_x3C_Radial_Repeat_x3E_-16" data-name="_x3C_Radial_Repeat_x3E_">
+          <line class="cls-1" x1="80.66" y1="112.57" x2="75.64" y2="98.79"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
