@@ -7688,7 +7688,7 @@
                 "text": "",
                 "undo_sname": "Caster TItle",
                 "font": {
-                    "face": "Owners TRIAL XWide",
+                    "face": "Owners XWide",
                     "flags": 1,
                     "size": 250,
                     "style": "Bold"
@@ -7743,7 +7743,7 @@
                 "text": "",
                 "undo_sname": "Caster TItle",
                 "font": {
-                    "face": "Owners TRIAL XWide",
+                    "face": "Owners XWide",
                     "flags": 1,
                     "size": 250,
                     "style": "Bold"
@@ -7798,7 +7798,7 @@
                 "text": "",
                 "undo_sname": "Caster TItle",
                 "font": {
-                    "face": "Owners TRIAL XWide",
+                    "face": "Owners XWide",
                     "flags": 1,
                     "size": 250,
                     "style": "Bold"
@@ -7853,7 +7853,7 @@
                 "text": "",
                 "undo_sname": "Caster TItle",
                 "font": {
-                    "face": "Owners TRIAL XWide",
+                    "face": "Owners XWide",
                     "flags": 1,
                     "size": 250,
                     "style": "Bold"
@@ -8042,7 +8042,7 @@
                 "undo_sname": "Casters",
                 "text": "SirBlackP",
                 "font": {
-                    "face": "OwnersTRIAL",
+                    "face": "Owners",
                     "flags": 1,
                     "size": 256,
                     "style": "Bold"
@@ -8082,7 +8082,7 @@
                 "text": "Skiff",
                 "undo_sname": "Casters",
                 "font": {
-                    "face": "OwnersTRIAL",
+                    "face": "Owners",
                     "flags": 1,
                     "size": 256,
                     "style": "Bold"
@@ -8122,7 +8122,7 @@
                 "text": "",
                 "undo_sname": "Casters",
                 "font": {
-                    "face": "OwnersTRIAL",
+                    "face": "Owners",
                     "flags": 1,
                     "size": 256,
                     "style": "Bold"
@@ -10352,7 +10352,7 @@
                 "undo_sname": "Caster TItle",
                 "text": "SirBlackP",
                 "font": {
-                    "face": "Owners TRIAL XWide",
+                    "face": "Owners XWide",
                     "flags": 1,
                     "size": 250,
                     "style": "Bold"
@@ -10407,7 +10407,7 @@
                 "text": "Skiff",
                 "undo_sname": "Caster TItle",
                 "font": {
-                    "face": "Owners TRIAL XWide",
+                    "face": "Owners XWide",
                     "flags": 1,
                     "size": 250,
                     "style": "Bold"
@@ -10462,7 +10462,7 @@
                 "text": "",
                 "undo_sname": "Caster TItle",
                 "font": {
-                    "face": "Owners TRIAL XWide",
+                    "face": "Owners XWide",
                     "flags": 1,
                     "size": 250,
                     "style": "Bold"
@@ -10540,7 +10540,7 @@
                 "undo_uuid": "476cb876-4de8-4d97-a9e5-2eb0ba52c10c",
                 "text": "Aegis Marauder League Week 2",
                 "font": {
-                    "face": "Owners TRIAL XXNarrow Black",
+                    "face": "Owners XXNarrow Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -11322,7 +11322,7 @@
                 "text": "Game 1",
                 "undo_sname": "Casters",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -11505,7 +11505,7 @@
                 "outline": false,
                 "text": "At Stage 3-5, one of four things can happen: Monkey explodes(damaging everyone), Bonus Gold for everyone, Bonus items for everyone, nothing happens.",
                 "font": {
-                    "face": "Owners TRIAL Narrow Black",
+                    "face": "Owners Narrow Black",
                     "flags": 1,
                     "size": 320,
                     "style": "Black"
@@ -12490,7 +12490,7 @@
                 "text": "Aegis Marauder League",
                 "undo_sname": "Casters",
                 "font": {
-                    "face": "Owners TRIAL XNarrow Black",
+                    "face": "Owners XNarrow Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -16408,7 +16408,7 @@
                 "undo_uuid": "bdedd5a1-90ee-4d6f-913f-2155bb656411",
                 "text": "Ugappabob ",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "XBlack"
@@ -16449,7 +16449,7 @@
                 "undo_sname": "Casters",
                 "text": "BroDeau ",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "XBlack"
@@ -16490,7 +16490,7 @@
                 "undo_sname": "Casters",
                 "text": "CelesteDragoness ",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "XBlack"
@@ -16531,7 +16531,7 @@
                 "undo_sname": "Casters",
                 "text": "12FiendFyre ",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "XBlack"
@@ -16572,7 +16572,7 @@
                 "undo_sname": "Casters",
                 "text": "PhDan ",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "XBlack"
@@ -16613,7 +16613,7 @@
                 "undo_sname": "Casters",
                 "text": "Darkblade1121 ",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "XBlack"
@@ -16655,7 +16655,7 @@
                 "undo_sname": "Casters",
                 "text": "ChunChunMaru ",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "XBlack"
@@ -16696,7 +16696,7 @@
                 "text": "CLE ",
                 "undo_sname": "Casters",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "XBlack"
@@ -17579,7 +17579,7 @@
                 "text": "9 Points",
                 "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -17613,7 +17613,7 @@
                 "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "text": "29 Points",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -17647,7 +17647,7 @@
                 "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "text": "11 Points",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -17681,7 +17681,7 @@
                 "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "text": "25 Points",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -17715,7 +17715,7 @@
                 "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "text": "15 Points",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -17749,7 +17749,7 @@
                 "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "text": "23 Points",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -17783,7 +17783,7 @@
                 "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "text": "16 Points",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -17817,7 +17817,7 @@
                 "undo_uuid": "0eda1f3c-5695-4cbf-9338-d4185ce88d4e",
                 "text": "19 Points",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -17852,7 +17852,7 @@
                 "text": "Powder’s Monkey",
                 "undo_sname": "Casters",
                 "font": {
-                    "face": "Owners TRIAL XNarrow Black",
+                    "face": "Owners XNarrow Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18154,7 +18154,7 @@
                 "undo_uuid": "12effcda-f7d1-4b02-b64e-259fe8d9017f",
                 "text": "BroDeau",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18188,7 +18188,7 @@
                 "undo_uuid": "fa25b268-02e9-4a75-bb70-a1a23bcc3589",
                 "text": "12FiendFyre",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18221,7 +18221,7 @@
             "settings": {
                 "text": "Darkblade1121",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18254,7 +18254,7 @@
             "settings": {
                 "text": "CLE",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18287,7 +18287,7 @@
             "settings": {
                 "text": "ChunChunMaru",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18320,7 +18320,7 @@
             "settings": {
                 "text": "PhDan",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18353,7 +18353,7 @@
             "settings": {
                 "text": "CelesteDragoness",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18386,7 +18386,7 @@
             "settings": {
                 "text": "Ugappabob",
                 "font": {
-                    "face": "Owners TRIAL XNarrow",
+                    "face": "Owners XNarrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18420,7 +18420,7 @@
                 "outline": false,
                 "text": "29",
                 "font": {
-                    "face": "Owners TRIAL Narrow",
+                    "face": "Owners Narrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18455,7 +18455,7 @@
                 "outline": false,
                 "text": "25",
                 "font": {
-                    "face": "Owners TRIAL Narrow",
+                    "face": "Owners Narrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18490,7 +18490,7 @@
                 "outline": false,
                 "text": "23",
                 "font": {
-                    "face": "Owners TRIAL Narrow",
+                    "face": "Owners Narrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18525,7 +18525,7 @@
                 "outline": false,
                 "text": "19",
                 "font": {
-                    "face": "Owners TRIAL Narrow",
+                    "face": "Owners Narrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18560,7 +18560,7 @@
                 "outline": false,
                 "text": "16",
                 "font": {
-                    "face": "Owners TRIAL Narrow",
+                    "face": "Owners Narrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18596,7 +18596,7 @@
                 "outline": false,
                 "text": "15",
                 "font": {
-                    "face": "Owners TRIAL Narrow",
+                    "face": "Owners Narrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18631,7 +18631,7 @@
                 "outline": false,
                 "text": "11",
                 "font": {
-                    "face": "Owners TRIAL Narrow",
+                    "face": "Owners Narrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18666,7 +18666,7 @@
                 "outline": false,
                 "text": "9",
                 "font": {
-                    "face": "Owners TRIAL Narrow",
+                    "face": "Owners Narrow",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
@@ -18734,7 +18734,7 @@
                 "text": "STARTING",
                 "undo_uuid": "ad06be48-a124-4a7e-bcde-a05f0a30bcf4",
                 "font": {
-                    "face": "Owners TRIAL XXNarrow Black",
+                    "face": "Owners XXNarrow Black",
                     "flags": 1,
                     "size": 320,
                     "style": "Black"
@@ -18881,7 +18881,7 @@
                 "text": "soon",
                 "undo_uuid": "11ed8653-7c70-49f6-aae2-f4a5287d604c",
                 "font": {
-                    "face": "Owners TRIAL XXNarrow Black",
+                    "face": "Owners XXNarrow Black",
                     "flags": 1,
                     "size": 320,
                     "style": "Black"
@@ -18936,7 +18936,7 @@
                 "text": "Aegis Marauder League Week 2",
                 "undo_sname": "Title",
                 "font": {
-                    "face": "Owners TRIAL XXNarrow Black",
+                    "face": "Owners XXNarrow Black",
                     "flags": 1,
                     "size": 320,
                     "style": "Black"
@@ -20358,7 +20358,7 @@
                 "undo_sname": "Casters",
                 "text": "Week 2",
                 "font": {
-                    "face": "Owners TRIAL Black",
+                    "face": "Owners Black",
                     "flags": 1,
                     "size": 256,
                     "style": "Black"
